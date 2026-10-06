@@ -1,13 +1,17 @@
 <?php include 'includes/header.php'; ?>
+<section class="tc-section-top">
+    <div class="container">
+        <div class="tc-content-top">
+            <h6>THE DETAILS</h6>
+            <h1>Privacy policy</h1>
+            <p>Read the information that applies to your account and orders.</p>
+        </div>
+    </div>
+</section>
 <section class="tc-section">
     <div class="container p-0">
         <div class="col">
             <div class="tc-content-main">
-                <div class="tc-content-top">
-                    <h6>THE DETAILS</h6>
-                    <h1>Privacy Policy</h1>
-                    <p>Read the information that applies to your account and orders.</p>
-                </div>
                  <div class="tc-content-submain">
                     <h4>About these terms</h4>
                     <p>
