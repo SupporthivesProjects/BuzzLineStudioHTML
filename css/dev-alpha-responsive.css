@@ -225,6 +225,104 @@
         height: 6px;
         background: url(../img/chevron-down.svg) no-repeat;
     }
+    .navbar .container {
+        max-width: 100%;
+        padding: 0px 0px !important;
+    }
+
+}
+@media only screen and (max-width: 600px) {
+    .tc-content-top h1 {
+        color: var(--brand-ink, #0F0F0F);
+        font-family: Onest;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%;
+        margin-bottom: 0px;
+    }
+    .tc-content-top {
+        display: flex;
+        gap: 12px;
+        flex-direction: column;
+    }
+    .tc-section-top {
+        display: flex;
+        padding: 40px 24px 40px 24px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+        align-self: stretch;
+        background: var(--brand-lavender-soft, #F5EEFF);
+        margin-top: 65px;
+    }
+    .tc-section{
+        padding: 40px 24px;
+    }
+    .tc-content-submain p {
+        color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+        font-family: Onest;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 150%;
+        margin-bottom: 24px;
+    }
+    .error-contanet {
+        display: flex;
+        width: 640px;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        margin: auto;
+        max-width: 100%;
+    }
+    .error-contanet h1 {
+        color: var(--brand-ink, #0F0F0F);
+        text-align: center;
+        font-family: Onest;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%;
+        margin-bottom: 0px;
+    }
+    .error-contanet p {
+        color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+        text-align: center;
+        font-family: Onest;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 150%;
+        margin-bottom: 0px;
+    }
+    .error-top {
+        height: 456px;
+        display: flex;
+        align-items: center;
+        margin-top: 72px;
+        padding: 80px 24px;
+    }
+    .error-contanet .btn-purple {
+        border-radius: var(--radius-full, 999px);
+        background: var(--brand-accent, #6A2BF0);
+        color: var(--base-white, #FFF);
+        font-family: Onest;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%;
+        display: flex;
+        padding: 16px 28px;
+        align-items: center;
+        gap: 8px;
+        transition: all .5s;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
 
 }
 @media only screen and (max-width: 600px) {

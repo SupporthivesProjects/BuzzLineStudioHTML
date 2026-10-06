@@ -1,6 +1,6 @@
 <?php include 'includes/header.php'; ?>
 <section class="tc-section-top">
-    <div class="container">
+    <div class="container p-0">
         <div class="tc-content-top">
             <h6>THE DETAILS</h6>
             <h1>Privacy policy</h1>
@@ -9,8 +9,8 @@
     </div>
 </section>
 <section class="tc-section">
-    <div class="container p-0">
-        <div class="col">
+    <div class="container p-mo">
+        <div class="col-9 col-md-12 col-sm-12 col-12">
             <div class="tc-content-main">
                  <div class="tc-content-submain">
                     <h4>About these terms</h4>
