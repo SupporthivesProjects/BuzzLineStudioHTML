@@ -1,2 +1,12 @@
-# BuzzLineStudioHTML
-https://www.figma.com/design/PLcjfLD8OmP0i4lchgTMOC/AD559---NextGen-Digital-Marketing---BuzzLineStudio.com?node-id=12580-5617&t=iASfjQuhtCsuK6Xi-1
+# BuzzLineStudio
+
+TimeLine<br>
+Start Date : 25/09/2026<br>
+End Date : 28/09/2026 (EOD) <br>
+
+# Developer Team
+Developer Team:Vijay,Rahul,Dhiraj,Saakshi-C,Saakshi-K,Tirthak,Diksha,Medhansh<br>
+Project Report : Jeet <br>
+Team Lead : Vijay <br>
+Co-Team Lead : Rahul<br>
+
