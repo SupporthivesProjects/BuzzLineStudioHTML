@@ -1898,6 +1898,7 @@ line-height: 150%; /* 21px */
     }
     .table_divt {
         height: 473px;
+        padding: 20px;
     }
     .top_two_t {
         gap: 16px;
@@ -1912,13 +1913,64 @@ line-height: 150%; /* 21px */
         text-align: left;
     }
     .tirhak_modal2 {
-        padding: 20px 24px 32px 24px;
+        padding: 20px 0px 32px 24px;
         gap: 16px;
         border-radius: 24px 24px 0 0;
     }
     .tirhak_modal_xxl {
         margin: 0px;
         margin-top: 34px;
+    }
+    .table_div_carosuel {
+        display: flex;
+        flex-direction: row;
+        gap: 12px;
+        overflow-x: auto;
+        overflow-y: hidden;
+        scroll-snap-type: x mandatory;
+        scrollbar-width: none;
+        -webkit-overflow-scrolling: touch;
+    }
+    .table_div_carosuel::-webkit-scrollbar {
+        display: none;
+    }
+
+    .table_divt {
+        width: 280px;
+        min-width: 280px;
+        max-width: 280px;
+        flex: 0 0 280px;
+        height: 473px;
+        scroll-snap-align: start;
+    }
+    .carousel_dots_t {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 6px;
+    }
+    
+    .carousel_dot_t {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #E2B2FC;
+        transition: all 0.25s ease;
+    }
+    
+    .carousel_dot_t.active_t {
+        width: 28px;
+        border-radius: 999px;
+        background: #6A2BF0;
+    }
+    .top_cross_div {
+        padding-right: 24px;
+    }
+    .modal_ppt {
+        padding-right: 24px;
+    }
+    .margin_right_ttt {
+        margin-right: 24px;
     }
 }
 
