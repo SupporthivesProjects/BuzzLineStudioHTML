@@ -699,7 +699,7 @@
                                     </div>
 
                                 </div>
-                                <div class="bottom_oftop_two">
+                                <div class="bottom_oftop_two" style="border-top: 1px solid var(--brand-line-on-night-16, rgba(245, 238, 255, 0.16));">
                                     <h4 class="tick_tts" style="color: var(--base-white, #FFF);
                                     ">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
@@ -756,7 +756,7 @@
                                 Keep Essential
                             </button>
                         </div>
-                        <div class="table_divt">
+                        <div class="table_divt margin_right_ttt">
                             <div class="top_two_t">
                                 <div class="top_oftop_two">
                                     <h1>Professional</h1>
@@ -832,7 +832,14 @@
                             </button>
                         </div>
                     </div>
-
+                    <div class="desktop_nonet">
+                        <div class="carousel_dots_t">
+                            <span class="carousel_dot_t active_t"></span>
+                            <span class="carousel_dot_t"></span>
+                            <span class="carousel_dot_t"></span>
+                        </div>
+                    </div>
+                 
                     <p class="modal_ppt">Prices are per month. Your term multiplies the monthly price, nothing else
                         changes.</p>
                 </div>
@@ -1015,49 +1022,43 @@
         AOS.init();
     </script>
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
+       document.addEventListener("DOMContentLoaded", function () {
 
-            const dropdowns_t = document.querySelectorAll('.dropdown_t');
+const carousel_t = document.querySelector(".table_div_carosuel");
+const cards_t = carousel_t.querySelectorAll(".table_divt");
+const dots_t = document.querySelectorAll(".carousel_dot_t");
 
-            dropdowns_t.forEach(function (dropdown_t) {
+function updateDots_t() {
 
-                const button_t = dropdown_t.querySelector('.dropdown_button_t');
-                const menu_t = dropdown_t.querySelector('.dropdown_menu_t');
-                const text_t = dropdown_t.querySelector('.dropdown_text_t');
-                const arrow_t = dropdown_t.querySelector('.dropdown_arrow_t');
-                const options_t = dropdown_t.querySelectorAll('.dropdown_option_t');
+    let closestIndex_t = 0;
+    let closestDistance_t = Infinity;
 
-                button_t.addEventListener('click', function (event_t) {
-                    event_t.stopPropagation();
+    cards_t.forEach(function (card_t, index_t) {
 
-                    menu_t.classList.toggle('active_t');
-                    arrow_t.classList.toggle('rotate_t');
-                });
+        const distance_t = Math.abs(
+            card_t.offsetLeft - carousel_t.scrollLeft
+        );
 
-                options_t.forEach(function (option_t) {
-                    option_t.addEventListener('click', function () {
+        if (distance_t < closestDistance_t) {
+            closestDistance_t = distance_t;
+            closestIndex_t = index_t;
+        }
 
-                        text_t.textContent = this.textContent;
+    });
 
-                        menu_t.classList.remove('active_t');
-                        arrow_t.classList.remove('rotate_t');
-                    });
-                });
-            });
+    dots_t.forEach(function (dot_t, index_t) {
+        dot_t.classList.toggle(
+            "active_t",
+            index_t === closestIndex_t
+        );
+    });
+}
 
-            document.addEventListener('click', function () {
-                dropdowns_t.forEach(function (dropdown_t) {
+carousel_t.addEventListener("scroll", updateDots_t);
 
-                    const menu_t = dropdown_t.querySelector('.dropdown_menu_t');
-                    const arrow_t = dropdown_t.querySelector('.dropdown_arrow_t');
+updateDots_t();
 
-                    menu_t.classList.remove('active_t');
-                    arrow_t.classList.remove('rotate_t');
-
-                });
-            });
-
-        });
+});
     </script>
 </body>
 
