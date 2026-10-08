@@ -1,0 +1,578 @@
+.seo-section {
+    display: flex;
+    width: 100%;
+    padding: 85px 0px 0px 0px;
+    background: var(--brand-lavender-soft, #F5EEFF);
+}
+
+.seo-inner {
+    display: flex;
+    width: 100%;
+    min-height: 700px;
+    max-width: 1920px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* LEFT CONTENT */
+
+.seo-content {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    padding: 166px 96px 166px 240px;
+
+    background: var(--brand-lavender-soft, #F5EEFF);
+}
+
+.seo-content__inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+
+    width: 100%;
+    max-width: 600px;
+}
+
+
+/* TAG */
+
+.seo-tag {
+    display: flex;
+    padding: 4px 12px;
+    align-items: center;
+
+    border-radius: 999px;
+    background: var(--brand-accent, #6A2BF0);
+
+    color: #fff;
+
+    font-family: "Onest", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+
+/* HEADING */
+
+.seo-content h2 {
+    margin: 0;
+
+    color: var(--brand-ink, #0F0F0F);
+
+    font-family: "Onest", sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+
+/* DESCRIPTION */
+
+.seo-description {
+    margin: 0;
+
+    color: rgba(15, 15, 15, 0.64);
+
+    font-family: "Onest", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+
+/* FEATURES */
+
+.seo-features {
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.seo-feature {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+
+    color: #0F0F0F;
+
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.seo-feature svg {
+    flex-shrink: 0;
+    margin-top: 6px;
+}
+
+
+/* BUTTON */
+
+.seo-pricing-btn {
+    display: flex;
+    padding: 16px 28px;
+    align-items: center;
+    gap: 8px;
+
+    border-radius: 999px;
+    background: #6A2BF0;
+
+    color: #fff;
+
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 120%;
+
+    text-decoration: none;
+}
+
+.seo-pricing-btn:hover {
+    border-radius: var(--radius-full, 999px);
+    background: var(--brand-accent-deep, #4F1EC4);
+}
+
+
+/* VIDEO */
+
+.seo-video {
+    width: 960px;
+    height: 750px;
+
+    position: relative;
+    overflow: hidden;
+}
+
+.seo-video__media {
+    display: block;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+    object-position: center;
+}
+
+.seo_second_section {
+    width: 100%;
+    background: var(--base-white, #FFF);
+    padding: 0px 0px 0px;
+}
+
+.seo_second_section_main {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+    padding: 104px 0px;
+}
+
+.seo_second_section_title {
+    margin: 0;
+
+    color: var(--brand-ink, #0F0F0F);
+
+    font-family: "Onest", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+
+    text-align: center;
+}
+
+.seo_second_section_items {
+    display: flex;
+    width: 100%;
+
+    margin-top: 64px;
+}
+
+.seo_second_section_item {
+    flex: 1 0 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    padding: 0 24px;
+}
+
+.seo_second_section_item:first-child {
+    padding-left: 0;
+}
+
+.seo_second_section_item:last-child {
+    padding-right: 0;
+}
+
+.seo_second_section_item h3 {
+    margin: 0 0 12px;
+
+    color: var(--brand-ink, #0F0F0F);
+
+    font-family: "Onest", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.seo_second_section_item p {
+    margin: 0;
+
+    color: var(--brand-ink-muted-64,
+            rgba(15, 15, 15, 0.64));
+
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+/* =========================================
+   SEO ESSENTIALS SECTION
+========================================= */
+
+.seo_essentials_section {
+    width: 100%;
+    background: var(--brand-lavender-soft, #F5EEFF);
+    padding: 0px;
+}
+
+.seo_essentials_main {
+    width: 100%;
+    padding: 104px 0px;
+}
+
+
+/* =========================================
+   HEADING
+========================================= */
+
+.seo_essentials_heading {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    gap: 16px;
+
+    margin-bottom: 48px;
+}
+
+.seo_essentials_tag {
+    display: flex;
+    padding: 6px 12px;
+
+    align-items: center;
+
+    border-radius: 999px;
+
+    background: var(--brand-accent, #6A2BF0);
+
+    color: #fff;
+
+    font-family: "Onest", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.seo_essentials_heading h2 {
+    margin: 0;
+
+    color: var(--brand-ink, #0F0F0F);
+
+    font-family: "Onest", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+
+/* =========================================
+   CARDS
+========================================= */
+
+.seo_essentials_cards {
+    display: grid;
+
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+
+    gap: 24px;
+}
+
+.seo_essential_card {
+    display: flex;
+
+    min-height: 224px;
+
+    padding: 28px;
+
+    flex-direction: column;
+    align-items: flex-start;
+
+    gap: 20px;
+    border-radius: var(--radius-l, 16px);
+    background: var(--base-white, #FFF);
+}
+
+
+/* =========================================
+   ICON
+========================================= */
+
+.seo_essential_icon {
+    display: flex;
+
+    width: 48px;
+    height: 48px;
+
+    padding: 12px;
+
+    justify-content: center;
+    align-items: center;
+
+    flex-shrink: 0;
+
+    border-radius: 999px;
+
+    background: var(--brand-lavender-soft, #F5EEFF);
+}
+
+.seo_essential_icon img {
+    width: 24px;
+    height: 24px;
+
+    object-fit: contain;
+}
+
+
+/* =========================================
+   CARD HEADING
+========================================= */
+
+.seo_essential_card h3 {
+    margin: 0;
+
+    color: var(--brand-ink, #0F0F0F);
+
+    font-family: "Onest", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+}
+
+
+/* =========================================
+   CARD TEXT
+========================================= */
+
+.seo_essential_card p {
+    margin: 0;
+
+    color: var(--brand-ink-muted-64,
+            rgba(15, 15, 15, 0.64));
+
+    font-family: "Onest", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    margin-top: -14px;
+}
+
+
+/* =========================================
+   MOBILE DOTS
+========================================= */
+
+.seo_essentials_dots {
+    display: none;
+}
+
+/* =========================================
+   SEO THIRD SECTION
+========================================= */
+
+.seo_third_section {
+    width: 100%;
+    background: var(--base-white, #FFF);
+    padding: 0px 0px 0px;
+}
+
+.seo_third_section_main {
+    width: 100%;
+    padding: 104px 0px;
+}
+
+
+/* =========================================
+   HEADER
+========================================= */
+
+.seo_third_section_header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    gap: 16px;
+
+    margin-bottom: 64px;
+}
+
+.seo_third_section_tag {
+    display: flex;
+    padding: 6px 12px;
+
+    align-items: center;
+
+    border-radius: 999px;
+
+    background: var(--brand-accent, #6A2BF0);
+
+    color: #fff;
+
+    font-family: "Onest", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.seo_third_section_title {
+    margin: 0;
+
+    color: var(--brand-ink, #0F0F0F);
+
+    font-family: "Onest", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.seo_third_section_description {
+    margin: 0;
+    color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+    font-family: Onest;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    /* 30px */
+}
+
+
+/* =========================================
+   STEPS
+========================================= */
+
+.seo_third_section_steps {
+    display: flex;
+    align-items: flex-start;
+    gap: 48px;
+    align-self: stretch;
+}
+
+.seo_third_section_step {
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 448px;
+    min-height: 220px;
+    gap: 24px;
+
+    padding: 0PX;
+
+    background: #fff;
+}
+
+.seo_third_section_step:first-child {
+    padding-left: 0;
+}
+
+.seo_third_section_step:last-child {
+    padding-right: 0;
+    border-right: 0;
+}
+
+
+/* =========================================
+   NUMBER
+========================================= */
+
+.seo_third_section_number {
+    display: flex;
+
+    width: 56px;
+    height: 56px;
+
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 0px;
+    border-radius: 999px;
+    background: var(--brand-accent, #6A2BF0);
+    color: #fff;
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+
+/* =========================================
+   CONTENT
+========================================= */
+
+.seo_third_section_step_content {
+    display: flex;
+    flex-direction: column;
+
+    gap: 8px;
+}
+
+.seo_third_section_step h3 {
+    margin: 0;
+
+    color: var(--brand-ink, #0F0F0F);
+
+    /* heading / h3 */
+    font-family: "Onest";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+    /* 36.4px */
+}
+
+.seo_third_section_step p {
+    margin: 0;
+
+    color: var(--brand-ink-muted-64,
+            rgba(15, 15, 15, 0.64));
+
+    font-family: "Onest", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
