@@ -714,6 +714,51 @@
     <script>
         AOS.init();
     </script>
+   <script>
+    document.addEventListener('DOMContentLoaded', function () {
+    
+        const dropdowns_t = document.querySelectorAll('.dropdown_t');
+    
+        dropdowns_t.forEach(function (dropdown_t) {
+    
+            const button_t = dropdown_t.querySelector('.dropdown_button_t');
+            const menu_t = dropdown_t.querySelector('.dropdown_menu_t');
+            const text_t = dropdown_t.querySelector('.dropdown_text_t');
+            const arrow_t = dropdown_t.querySelector('.dropdown_arrow_t');
+            const options_t = dropdown_t.querySelectorAll('.dropdown_option_t');
+    
+            button_t.addEventListener('click', function (event_t) {
+                event_t.stopPropagation();
+    
+                menu_t.classList.toggle('active_t');
+                arrow_t.classList.toggle('rotate_t');
+            });
+    
+            options_t.forEach(function (option_t) {
+                option_t.addEventListener('click', function () {
+    
+                    text_t.textContent = this.textContent;
+    
+                    menu_t.classList.remove('active_t');
+                    arrow_t.classList.remove('rotate_t');
+                });
+            });
+        });
+    
+        document.addEventListener('click', function () {
+            dropdowns_t.forEach(function (dropdown_t) {
+    
+                const menu_t = dropdown_t.querySelector('.dropdown_menu_t');
+                const arrow_t = dropdown_t.querySelector('.dropdown_arrow_t');
+    
+                menu_t.classList.remove('active_t');
+                arrow_t.classList.remove('rotate_t');
+    
+            });
+        });
+    
+    });
+    </script>
 </body>
 
 </html>
