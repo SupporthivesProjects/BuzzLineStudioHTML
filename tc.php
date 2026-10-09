@@ -2,7 +2,7 @@
 <section class="tc-section-top">
     <div class="container p-0">
         <div class="tc-content-top">
-            <h6>THE DETAILS</h6>
+            <h6>Legal</h6>
             <h1>Terms & Conditions</h1>
             <p>Read the information that applies to your account and orders.</p>
         </div>

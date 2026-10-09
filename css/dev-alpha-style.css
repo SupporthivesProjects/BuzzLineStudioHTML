@@ -49,10 +49,13 @@
     font-weight: 500;
     line-height: 120%; /* 19.2px */
     text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 6px;
 }
 .dropdown-toggle::after {
     display: inline-block;
-    margin-left: .255em;
+    margin-left:4px;
     vertical-align: .255em;
     content: "";
     border-top: .3em solid;
@@ -78,6 +81,11 @@
     align-items: flex-start;
     gap: 8px;
     align-self: stretch;
+    text-transform: none;
+}
+.card-count img{
+    width: 19px;
+    height: 17px;
 }
 .dropdown-menu ul{
     list-style: none;
@@ -87,6 +95,12 @@
 }
 .dropdown-item{
     padding: 0px 0px;
+    color: var(--brand-ink, #0F0F0F);
+    font-family: Onest;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 21px */
 }
 .dropdown-menu li{
     color: var(--brand-ink, #0F0F0F);
@@ -209,6 +223,11 @@
 }
 .card-count{
     position: relative;
+}
+.navbar-nav .nav-link{
+    padding: 0px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
 }
 @media (min-width: 992px) {
     .navbar-expand-lg .navbar-nav {
@@ -366,11 +385,12 @@
 .btn-login{
     transition: all .5s;
 }
-.error-top{
-    height: 76vh;
+.error-top {
+    height: 750px;
     display: flex;
     align-items: center;
     margin-top: 85px;
+    padding: 160px 0px 272px;
 }
 /* ----------------------footer--------------------------- */
 .footer{

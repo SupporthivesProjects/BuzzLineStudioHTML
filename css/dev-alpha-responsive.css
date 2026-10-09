@@ -130,6 +130,7 @@
         flex-direction: column;
         justify-content: flex-start;
         margin-bottom: 0px;
+        margin-top: 4px;
     }
     .btn-start span {
         color: var(--brand-ink, #0F0F0F);
@@ -253,23 +254,27 @@
         padding: 0px 0px !important;
     }
     .d-right-mo .btn-login {
-    border-radius: var(--radius-full, 999px);
-    background: var(--brand-accent, #6A2BF0);
-    display: flex;
-    padding: 16px 28px;
-    align-items: center;
-    gap: 8px;
-    width: 100%;
-    display: flex;
-    color: var(--base-white, #FFF);
-    font-family: Onest;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    justify-content: center;
-    line-height: 120%;
-}
-
+        border-radius: var(--radius-full, 999px);
+        background: var(--brand-accent, #6A2BF0);
+        display: flex;
+        padding: 16px 28px;
+        align-items: center;
+        gap: 8px;
+        width: 100%;
+        display: flex;
+        color: var(--base-white, #FFF);
+        font-family: Onest;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        justify-content: center;
+        line-height: 120%;
+    }
+    .navbar-nav .nav-link {
+        padding: 20px;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
 }
 @media only screen and (max-width: 600px) {
     .tc-content-top h1 {
@@ -280,6 +285,23 @@
         font-weight: 500;
         line-height: 120%;
         margin-bottom: 0px;
+    }
+    .tc-content-top p{
+        color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+        font-family: Onest;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 150%;
+    }
+    .tc-content-submain h4 {
+        color: var(--brand-ink, #0F0F0F);
+        font-family: Onest;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 130%;
+        margin-bottom: 8px;
     }
     .tc-content-top {
         display: flex;
@@ -324,7 +346,7 @@
         font-size: 28px;
         font-style: normal;
         font-weight: 500;
-        line-height: 120%;
+        line-height: 130%;
         margin-bottom: 0px;
     }
     .error-contanet p {
