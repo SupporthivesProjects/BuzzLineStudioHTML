@@ -234,7 +234,7 @@
                                         stroke-linecap="round" stroke-linejoin="round" />
                                 </svg>Back to the goals</p>
                             <div class="bottom_tt_topup2">
-                                <div class="single_services_cardt single_services_cardt_active">
+                                <div class="single_services_cardt">
                                     <div class="top_secondt">
                                         <input class="form-check-input check_boxttt" type="checkbox" value=""
                                             id="checkDefault">
@@ -251,7 +251,7 @@
                                                     stroke-linecap="round" stroke-linejoin="round" />
                                             </svg>
                                         </p>
-                                        <button class="btn btn_t diff_widtht new_backcolor"  style="width: 100%; justify-content: center;">
+                                        <button class="btn btn_t diff_widtht"  style="width: 100%; justify-content: center;">
                                             Selected
                                         </button>
 
@@ -753,6 +753,46 @@
             });
 
         });
+    </script>
+    <script>
+$(document).ready(function () {
+
+// Handle clicks anywhere on the service card
+$(document).on("click", ".single_services_cardt", function (e) {
+
+    // Ignore direct checkbox clicks because they toggle automatically
+    if ($(e.target).closest(".check_boxttt").length) {
+        return;
+    }
+
+    // Do not toggle the card when clicking Find out more
+    if ($(e.target).closest(".button_arrow_div p").length) {
+        return;
+    }
+
+    let card = $(this);
+    let checkbox = card.find(".check_boxttt");
+
+    checkbox.prop("checked", !checkbox.prop("checked"));
+    checkbox.trigger("change");
+});
+
+// Update card and button when checkbox changes
+$(document).on("change", ".check_boxttt", function () {
+
+    let card = $(this).closest(".single_services_cardt");
+    let button = card.find(".diff_widtht");
+
+    if (this.checked) {
+        card.addClass("selected_servicet");
+        button.text("Selected");
+    } else {
+        card.removeClass("selected_servicet");
+        button.text("Add");
+    }
+});
+
+});
     </script>
 </body>
 

@@ -1440,6 +1440,19 @@ line-height: 150%; /* 21px */
     border: 2px solid var(--brand-accent, #6A2BF0);
 
 }
+.single_services_cardt {
+    border: 1px solid var(--brand-line-12, rgba(15, 15, 15, 0.12));
+    cursor: pointer;
+    transition: border-color 0.2s ease;
+}
+
+.single_services_cardt.selected_servicet {
+    border: 2px solid var(--brand-accent, #6A2BF0);
+}
+
+.single_services_cardt.selected_servicet .diff_widtht {
+    background: var(--brand-ink, #0F0F0F);
+}
 @media only screen and (max-width: 700px) {
     .mobile_nonet {
         display: none;
