@@ -101,6 +101,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: 150%; /* 21px */
+    text-transform: none;
 }
 .dropdown-menu li{
     color: var(--brand-ink, #0F0F0F);
