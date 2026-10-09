@@ -1,4 +1,12 @@
 <?php include 'includes/header.php'; ?>
+<style>
+  @media (min-width: 1500px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1385px;
+    }
+}
+</style>
+
 <section class="seo-section">
     <div class="container-fluid p-0 seo-inner">
  <!-- LEFT CONTENT -->
@@ -396,7 +404,716 @@
     </div>
 </section>
 
+<section class="seo_fourth_section"
+    style="--seo-bg-image: url('../img/seo.png');">
+
+    <div class="container-fluid px-0">
+
+        <div class="seo_fourth_section_main">
+
+            <!-- LEFT IMAGE -->
+            <div class="seo_fourth_section_image"></div>
+
+            <!-- RIGHT CONTENT -->
+            <div class="seo_fourth_section_content">
+
+                <span class="seo_fourth_section_tag">
+                    The benefits
+                </span>
+
+                <h2>
+                    What each SEO tier gives you.
+                </h2>
+
+                <p class="seo_fourth_section_intro">
+                    Organic growth compounds while everything else is rented.
+                </p>
+
+                <div class="seo_fourth_section_points">
+
+                    <div class="seo_fourth_section_point">
+                        <span class="seo_fourth_section_tick"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="11" viewBox="0 0 16 11" fill="none">
+  <path d="M14.2083 0.875L5.04167 10.0417L0.875 5.875" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span>
+
+                        <div>
+                            <h3>Traffic that gets cheaper</h3>
+                            <p>
+                                Every ranking gained keeps paying without extra spend.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="seo_fourth_section_point">
+                        <span class="seo_fourth_section_tick"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="11" viewBox="0 0 16 11" fill="none">
+  <path d="M14.2083 0.875L5.04167 10.0417L0.875 5.875" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span>
+
+                        <div>
+                            <h3>Customers with intent</h3>
+                            <p>
+                                Visitors arrive already searching for what you sell.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="seo_fourth_section_point">
+                        <span class="seo_fourth_section_tick"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="11" viewBox="0 0 16 11" fill="none">
+  <path d="M14.2083 0.875L5.04167 10.0417L0.875 5.875" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span>
+
+                        <div>
+                            <h3>An asset you own</h3>
+                            <p>
+                                Rankings and content stay yours for the long term.
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<section class="seo_pricing_section">
+    <div class="container px-0">
+        <div class="seo_pricing_main">
+
+            <!-- HEADER -->
+            <div class="seo_pricing_header">
+                <span class="seo_pricing_tag">Tiers and pricing</span>
+                <h2>Pick a tier, then set it up in your order.</h2>
+            </div>
+
+            <!-- BILLING TABS -->
+            <ul class="nav nav-pills seo_pricing_tabs"
+                id="seoPricingTabs"
+                role="tablist">
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link"
+                        id="month1-tab"
+                        data-bs-toggle="pill"
+                        data-bs-target="#month1"
+                        type="button"
+                        role="tab"
+                        aria-controls="month1"
+                        aria-selected="false">
+                        1 month
+                    </button>
+                </li>
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active"
+                        id="month3-tab"
+                        data-bs-toggle="pill"
+                        data-bs-target="#month3"
+                        type="button"
+                        role="tab"
+                        aria-controls="month3"
+                        aria-selected="true">
+                        3 months
+                    </button>
+                </li>
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link"
+                        id="month6-tab"
+                        data-bs-toggle="pill"
+                        data-bs-target="#month6"
+                        type="button"
+                        role="tab"
+                        aria-controls="month6"
+                        aria-selected="false">
+                        6 months
+                    </button>
+                </li>
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link"
+                        id="month12-tab"
+                        data-bs-toggle="pill"
+                        data-bs-target="#month12"
+                        type="button"
+                        role="tab"
+                        aria-controls="month12"
+                        aria-selected="false">
+                        12 months
+                    </button>
+                </li>
+            </ul>
+
+            <!-- TAB CONTENT -->
+            <div class="tab-content seo_pricing_tab_content">
+
+                <!-- 1 MONTH -->
+                <div class="tab-pane fade"
+                    id="month1"
+                    role="tabpanel"
+                    aria-labelledby="month1-tab"
+                    tabindex="0">
+
+                    <div class="seo_pricing_table_wrap">
+                        <table class="seo_pricing_table">
+                            <thead>
+                                <tr>
+                                    <th>Tier</th>
+                                    <th>Starter</th>
+                                    <th>Essential</th>
+                                    <th>Professional</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                <tr><td>Keywords and phrases targeted</td><td>5</td><td>15</td><td>30</td></tr>
+                                <tr><td>Blog posts written and optimised per month</td><td>1</td><td>2</td><td>4</td></tr>
+                                <tr><td>Quality links built per month</td><td>3</td><td>8</td><td>15</td></tr>
+                                <tr><td>Coverage</td><td>National</td><td>National</td><td>National and international</td></tr>
+                                <tr><td>AI search visibility (ChatGPT, Google AI Overviews)</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Schema markup and Core Web Vitals fixes</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Full SEO audit</td><td>At onboarding</td><td>Quarterly</td><td>Monthly</td></tr>
+                                <tr><td>Digital PR, press releases and news outreach</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Landing page conversion review</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                            </tbody>
+
+                            <tfoot>
+                                <tr>
+                                    <td>Price</td>
+                                    <td>
+                                        <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></div>
+                                        <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                                        <a href="#" class="seo_price_btn">Start with Starter</a>
+                                    </td>
+                                    <td>
+                                        <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></div>
+                                        <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                                        <a href="#" class="seo_price_btn">Start with Essential</a>
+                                    </td>
+                                    <td>
+                                        <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></div>
+                                        <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                                        <a href="#" class="seo_price_btn">Start with Professional</a>
+                                    </td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+
+                    <!-- MOBILE CARDS -->
+                    <div class="seo_pricing_mobile">
+                        <div class="seo_pricing_cards">
+
+                            <div class="seo_price_card">
+                                <h3>Starter</h3>
+                                <div class="seo_price_amount">Price to be confirmed</div>
+                                <div class="seo_price_features">
+                                    <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>5</span></div>
+                                    <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
+                                    <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
+                                    <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                                    <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Full SEO audit</span><span>At onboarding</span></div>
+                                    <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                </div>
+                                <a href="#" class="seo_price_btn">Start with Starter</a>
+                            </div>
+
+                            <div class="seo_price_card">
+                                <h3>Essential</h3>
+                                <div class="seo_price_amount">Price to be confirmed</div>
+                                <div class="seo_price_features">
+                                    <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>15</span></div>
+                                    <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
+                                    <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
+                                    <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                                    <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Full SEO audit</span><span>Quarterly</span></div>
+                                    <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                </div>
+                                <a href="#" class="seo_price_btn">Start with Essential</a>
+                            </div>
+
+                            <div class="seo_price_card">
+                                <h3>Professional</h3>
+                                <div class="seo_price_amount">Price to be confirmed</div>
+                                <div class="seo_price_features">
+                                    <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>30</span></div>
+                                    <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
+                                    <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
+                                    <div class="seo_price_feature"><span>Coverage</span><span>National and international</span></div>
+                                    <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Full SEO audit</span><span>Monthly</span></div>
+                                    <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                </div>
+                                <a href="#" class="seo_price_btn">Start with Professional</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3 MONTHS -->
+                <div class="tab-pane fade show active"
+                    id="month3"
+                    role="tabpanel"
+                    aria-labelledby="month3-tab"
+                    tabindex="0">
+
+                    <div class="seo_pricing_table_wrap">
+                        <table class="seo_pricing_table">
+                            <thead>
+                                <tr>
+                                    <th>Tier</th>
+                                    <th>Starter</th>
+                                    <th>Essential</th>
+                                    <th>Professional</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                <tr><td>Keywords and phrases targeted</td><td>5</td><td>15</td><td>30</td></tr>
+                                <tr><td>Blog posts written and optimised per month</td><td>1</td><td>2</td><td>4</td></tr>
+                                <tr><td>Quality links built per month</td><td>3</td><td>8</td><td>15</td></tr>
+                                <tr><td>Coverage</td><td>National</td><td>National</td><td>National and international</td></tr>
+                                <tr><td>AI search visibility (ChatGPT, Google AI Overviews)</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Schema markup and Core Web Vitals fixes</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Full SEO audit</td><td>At onboarding</td><td>Quarterly</td><td>Monthly</td></tr>
+                                <tr><td>Digital PR, press releases and news outreach</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Landing page conversion review</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                            </tbody>
+
+                            <tfoot>
+                                <tr>
+                                    <td>Price</td>
+                                    <td>
+                                        <div class="seo_pricing_price">$1,197</div>
+                                        <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
+                                        <a href="#" class="seo_price_btn">Start with Starter</a>
+                                    </td>
+                                    <td>
+                                        <div class="seo_pricing_price">$2,097</div>
+                                        <div class="seo_pricing_price_note">$699 per month, 3 month term</div>
+                                        <a href="#" class="seo_price_btn">Start with Essential</a>
+                                    </td>
+                                    <td>
+                                        <div class="seo_pricing_price">$3,597</div>
+                                        <div class="seo_pricing_price_note">$1,199 per month, 3 month term</div>
+                                        <a href="#" class="seo_price_btn">Start with Professional</a>
+                                    </td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+
+                    <!-- MOBILE CARDS -->
+                    <div class="seo_pricing_mobile">
+                        <div class="seo_pricing_cards">
+
+                            <div class="seo_price_card">
+                                <h3>Starter</h3>
+                                <div class="seo_price_amount">$1,197</div>
+                                <p class="seo_price_note">$399 per month, 3 month term</p>
+                                <div class="seo_price_features">
+                                    <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>5</span></div>
+                                    <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
+                                    <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
+                                    <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                                    <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Full SEO audit</span><span>At onboarding</span></div>
+                                    <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                </div>
+                                <a href="#" class="seo_price_btn">Start with Starter</a>
+                            </div>
+
+                            <div class="seo_price_card">
+                                <h3>Essential</h3>
+                                <div class="seo_price_amount">$2,097</div>
+                                <p class="seo_price_note">$699 per month, 3 month term</p>
+                                <div class="seo_price_features">
+                                    <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>15</span></div>
+                                    <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
+                                    <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
+                                    <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                                    <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Full SEO audit</span><span>Quarterly</span></div>
+                                    <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></span></div>
+                                </div>
+                                <a href="#" class="seo_price_btn">Start with Essential</a>
+                            </div>
+
+                            <div class="seo_price_card">
+                                <h3>Professional</h3>
+                                <div class="seo_price_amount">$3,597</div>
+                                <p class="seo_price_note">$1,199 per month, 3 month term</p>
+                                <div class="seo_price_features">
+                                    <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>30</span></div>
+                                    <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
+                                    <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
+                                    <div class="seo_price_feature"><span>Coverage</span><span>National and international</span></div>
+                                    <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Full SEO audit</span><span>Monthly</span></div>
+                                    <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                    <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></span></div>
+                                </div>
+                                <a href="#" class="seo_price_btn">Start with Professional</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 6 MONTHS -->
+                <div class="tab-pane fade"
+                    id="month6"
+                    role="tabpanel"
+                    aria-labelledby="month6-tab"
+                    tabindex="0">
+
+                    <div class="seo_pricing_table_wrap">
+                        <table class="seo_pricing_table">
+                            <thead>
+                                <tr><th>Tier</th><th>Starter</th><th>Essential</th><th>Professional</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>Keywords and phrases targeted</td><td>5</td><td>15</td><td>30</td></tr>
+                                <tr><td>Blog posts written and optimised per month</td><td>1</td><td>2</td><td>4</td></tr>
+                                <tr><td>Quality links built per month</td><td>3</td><td>8</td><td>15</td></tr>
+                                <tr><td>Coverage</td><td>National</td><td>National</td><td>National and international</td></tr>
+                                <tr><td>AI search visibility (ChatGPT, Google AI Overviews)</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Schema markup and Core Web Vitals fixes</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Full SEO audit</td><td>At onboarding</td><td>Quarterly</td><td>Monthly</td></tr>
+                                <tr><td>Digital PR, press releases and news outreach</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Landing page conversion review</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <td>Price</td>
+                                    <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg><div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#" class="seo_price_btn">Start with Starter</a></td>
+                                    <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg><div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#" class="seo_price_btn">Start with Essential</a></td>
+                                    <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg><div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#" class="seo_price_btn">Start with Professional</a></td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- 12 MONTHS -->
+                <div class="tab-pane fade"
+                    id="month12"
+                    role="tabpanel"
+                    aria-labelledby="month12-tab"
+                    tabindex="0">
+
+                    <div class="seo_pricing_table_wrap">
+                        <table class="seo_pricing_table">
+                            <thead>
+                                <tr><th>Tier</th><th>Starter</th><th>Essential</th><th>Professional</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td>Keywords and phrases targeted</td><td>5</td><td>15</td><td>30</td></tr>
+                                <tr><td>Blog posts written and optimised per month</td><td>1</td><td>2</td><td>4</td></tr>
+                                <tr><td>Quality links built per month</td><td>3</td><td>8</td><td>15</td></tr>
+                                <tr><td>Coverage</td><td>National</td><td>National</td><td>National and international</td></tr>
+                                <tr><td>AI search visibility (ChatGPT, Google AI Overviews)</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Schema markup and Core Web Vitals fixes</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Full SEO audit</td><td>At onboarding</td><td>Quarterly</td><td>Monthly</td></tr>
+                                <tr><td>Digital PR, press releases and news outreach</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                                <tr><td>Landing page conversion review</td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg></td><td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></td></tr>
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <td>Price</td>
+                                    <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg><div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#" class="seo_price_btn">Start with Starter</a></td>
+                                    <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg><div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#" class="seo_price_btn">Start with Essential</a></td>
+                                    <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+  <g opacity="0.35">
+    <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg><div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#" class="seo_price_btn">Start with Professional</a></td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
 <?php include 'includes/footer.php'; ?>
+
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
