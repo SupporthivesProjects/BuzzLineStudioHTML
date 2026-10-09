@@ -16,13 +16,13 @@ QA - Parth/Shailesh<br>
 # Task
 
 Vijay :header,footer,tc,pc,404 page, include pop <br>
-Rahul:aboutus, home,include pop <br>
+Rahul:aboutus,home,include pop <br>
 Saakshi C: Dashboard All,Email Template, include pop <br>
 Diksha:login,sign up,reset,forget,include pop <br>
 Dhiraj:goals, individual services (services 5 pages),include pop <br>
 Saakshi k:contact,faqs ,include pop <br>
 Tirthak:bespoke services,purchase flow-from a goal,purchase flow-from a service ,include pop <br>
-medhanash :,cart,checkout,payment Error,payment payment Success,include pop <br>
+medhanash :,cart,checkout,payment Error, payment Success,include pop <br>
 
 # Figma
 figma copy-version:- https://www.figma.com/design/fYJpIDLj8BAoFSnm6Lc0hX/AD559---NextGen-Digital-Marketing---BuzzLineStudio.com--Copy-?node-id=12175-191&t=MTnkKLreCGXCbi9x-0 <br>

@@ -19,6 +19,10 @@
         align-items: center;
         padding: 24px 24px;
     }
+    .navbar-brand img{
+        width: 150px;
+        height: 17px;
+    }
     .navbar{
         padding: 0px 0px;
     }
@@ -39,6 +43,10 @@
         padding: 0px;
         border: 0px;
         background: transparent;
+        transition: all .4s;
+    }
+    .is-active {
+        padding: 5px;
     }
     .navbar-toggler  .navbar-toggler-icon{
         background: url(../img/menu.svg) no-repeat;
@@ -46,13 +54,23 @@
         background-size: cover;
         width: 22px;
         height: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .navbar-toggler.is-active .navbar-toggler-icon{
         background: url(../img/close.svg) no-repeat;
         background-position: center center;
         background-size: cover;
-        width: 24px;
-        height: 24px;
+        width: 12px;
+        height: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .user-price img{
+        width: 19px;
+        height: 17px;
     }
     .counter-mo{
         color: var(--base-white, #FFF);
@@ -74,6 +92,7 @@
     }
     .user-price{
         position: relative;
+        display: block;
     }
     .dropdown button{
         color: var(--brand-ink, #0F0F0F);
@@ -176,6 +195,10 @@
         font-style: normal;
         font-weight: 500;
         line-height: 150%;
+        text-transform: none;
+    }
+    .d-right-mo .btn-start{
+        padding: 0px 0px;
     }
     
     .dropdown-toggle::after {
@@ -205,7 +228,7 @@
         border: 0px;
         padding-bottom: 0px;
         padding-top: 0px;
-        margin-top: 12px;
+        margin-top: 0px;
     }
     .header-top{
         background: #fff;
@@ -229,6 +252,23 @@
         max-width: 100%;
         padding: 0px 0px !important;
     }
+    .d-right-mo .btn-login {
+    border-radius: var(--radius-full, 999px);
+    background: var(--brand-accent, #6A2BF0);
+    display: flex;
+    padding: 16px 28px;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    display: flex;
+    color: var(--base-white, #FFF);
+    font-family: Onest;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    justify-content: center;
+    line-height: 120%;
+}
 
 }
 @media only screen and (max-width: 600px) {
@@ -328,7 +368,7 @@
 @media only screen and (max-width: 600px) {
     .footer-link-menu {
         display: flex;
-        gap: 24px 32px;
+        gap: 32px 24px;
         width: 100%;
         max-width: 100%;
         float: right;

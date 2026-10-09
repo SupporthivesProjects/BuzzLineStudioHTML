@@ -128,3 +128,12 @@ html,body{
   box-sizing: border-box;
 }
 
+/* -----------------------hove animation----------- */
+.dropdown-item:focus, .dropdown-item:hover {
+    color: var(--bs-dropdown-link-hover-color);
+    background-color: transparent;
+}
+.dropdown-menu-ser li:hover {
+    position: relative;
+    background: #fff;
+}
