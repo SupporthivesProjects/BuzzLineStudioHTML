@@ -388,6 +388,25 @@
 
 }
 @media only screen and (max-width: 600px) {
+    .footer-logo img {
+        width: 150px;
+        height: 17px;
+    }
+    .footer--p-p {
+        display: flex;
+        gap: 22px;
+        width: 120px;
+        height: 24px;
+        align-items: center;
+    }
+    .footer--p-p img{
+        width: 55.949px;
+        height: 17.73px;
+    }
+    .footer--p-p img:last-child{
+        width: 39.745px;
+        height: 24px;
+    }
     .footer-link-menu {
         display: flex;
         gap: 32px 24px;

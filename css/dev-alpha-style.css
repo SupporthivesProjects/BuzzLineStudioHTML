@@ -251,6 +251,14 @@
 .scrolled{
     background: #fff;
 }
+.navbar-brand img{
+    width: 194px;
+    height: 22px;
+}
+.footer-logo img{
+    width: 194px;
+    height: 22px;
+}
 /* ---------------------------tc------------------------------ */
 .tc-content-submain h4{
     color: var(--brand-ink, #0F0F0F);
@@ -404,6 +412,12 @@
     flex-direction: column;
     align-items: flex-start;
     gap: 24px;
+}
+.footer--p-p {
+    display: flex;
+    gap: 27px;
+    width: 157px;
+    height: 32px;
 }
 .footer-p p{
     color:  rgba(245, 238, 255, 0.64);
