@@ -2,8 +2,8 @@
 
 /* Original inline scene audio configuration */
 window.__SCENE_AUDIO__ = {
-    "music-a": "./assets/audio/music-a.05699e28.mp3",
-    "music-b": "./assets/audio/music-b.e6058d70.mp3"
+    "music-a": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/audio/music-a.05699e28.mp3",
+    "music-b": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/audio/music-b.e6058d70.mp3"
 };
 
 /* Original <script type="module"> block */
