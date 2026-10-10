@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="en" data-theme="day" data-build="4.3">
+<head>
+    <link rel="icon" href="data:,">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BuzzLine Studio</title>
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="assets/fonts/onest-500.8f2d0540.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="assets/fonts/onest-600.31d113d8.woff2">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/js/bootstrap.js"></script>
+</head>
+<body class="waiting-entry site-page">
+    <div id="entry-gate" role="dialog" aria-modal="true" aria-labelledby="gate-title">
+        <div class="gate-intro">
+            <div class="gate-wordmark" id="gate-title"><img alt="BuzzLine Studio" src="assets/img/image-1.27a90113.svg"></div>
+            <div class="gate-centre">
+                <p>Marketing that pays for itself.</p>
+            </div>
+        </div>
+        <div id="gate-choices">
+            <button type="button" class="gate-choice gate-primary" id="enter-sound" disabled>
+                <svg viewBox="0 0 20 20" aria-hidden="true">
+                    <path d="M3 7h3l4-4v14l-4-4H3ZM13 6q5 4 0 8M15 3q8 7 0 14" />
+                </svg><span>ENTER WITH SOUND</span></button>
+            <button type="button" class="gate-choice gate-secondary" id="enter-muted" disabled>
+                <svg viewBox="0 0 20 20" aria-hidden="true">
+                    <path d="M3 7h3l4-4v14l-4-4H3ZM13 7l5 6M18 7l-5 6" />
+                </svg><span>ENTER WITHOUT SOUND</span></button>
+        </div>
+        <div class="gate-bottom">
+            <div id="gate-progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Loading scene"><span class="gate-track"><span id="gate-fill"></span></span><span id="gate-counter">000%</span></div><span id="gate-message" role="status">Preparing the scene…</span></div>
+    </div>
+    <main id="scroll-section">
+        <div id="stage">
+            <canvas id="scene" aria-label="Interactive particle landscape"></canvas>
+            <div id="hero-text"></div>
+        </div>
+    </main>
+    <footer class="mobile-action-footer figma-footer" aria-label="Footer">
+        <div class="mobile-footer-brand"><img class="wordmark" alt="BuzzLine Studio" src="assets/img/footer/footer-logo-mobile.svg">
+            <p>Fixed-term marketing services
+                <br class="footer-desktop-break"> you buy online.</p><img class="payment-logos" alt="Visa and Mastercard" src="assets/img/footer/footer-payments-mobile.svg">
+            <div class="footer-social">
+                <button type="button" data-inert aria-label="Facebook"><img alt="" width="24" height="24" src="assets/img/footer/footer-facebook.svg">
+                </button>
+                <button type="button" data-inert aria-label="Instagram"><img alt="" width="24" height="24" src="assets/img/footer/footer-instagram.svg">
+                </button>
+            </div>
+        </div>
+        <div class="mobile-footer-links">
+            <div>
+                <h3>Goals</h3>
+                <button type="button" data-inert>Be Found</button>
+                <button type="button" data-inert>Be Chosen</button>
+                <button type="button" data-inert>Be Remembered</button>
+            </div>
+            <div>
+                <h3>Services</h3>
+                <button type="button" data-inert>SEO</button>
+                <button type="button" data-inert>Paid Search</button>
+                <button type="button" data-inert>Social Media</button>
+                <button type="button" data-inert>Email Marketing</button>
+                <button type="button" data-inert>Website Design and Dev</button>
+                <button type="button" data-inert>Bespoke Services</button>
+            </div>
+            <div>
+                <h3>Company</h3>
+                <button type="button" data-inert>About</button>
+                <button type="button" data-inert>FAQs</button>
+                <button type="button" data-inert>Contact</button>
+                <button type="button" data-inert>Sign in</button>
+            </div>
+        </div>
+        <div class="mobile-footer-hairline"></div>
+        <div class="mobile-footer-legal">
+            <div>
+                <button type="button" data-inert>Terms &amp; conditions</button>
+                <button type="button" data-inert>Privacy policy</button>
+            </div><span>© 2026 BuzzLineStudio.</span></div>
+    </footer>
+    <nav id="business-nav" aria-label="Main navigation">
+        <button type="button" class="brand" data-inert aria-label="BuzzLine Studio"><img class="wordmark" alt="BuzzLine Studio" src="assets/img/image-2.e16b64a0.svg"></button>
+        <div class="nav-links">
+            <div class="packages-menu desktop-goals">
+                <button type="button" class="nav-packages" id="desktop-goals-toggle" aria-expanded="false" aria-controls="desktop-goals-panel">GOALS<img class="about-icon nav-chevron" alt="" width="16" height="16" src="assets/img/image-4.350d3736.svg"></button>
+                <div class="packages-panel" id="desktop-goals-panel" aria-label="Goals" hidden>
+                    <div class="goals-intro">
+                        <p>Packaged services, built around one outcome.</p>
+                    </div>
+                    <button type="button" data-inert>Be Found<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Be Chosen<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Be Remembered<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                </div>
+            </div>
+            <div class="packages-menu desktop-packages">
+                <button type="button" class="nav-packages" id="desktop-packages-toggle" aria-expanded="false" aria-controls="desktop-packages-panel">SERVICES<img class="about-icon nav-chevron" alt="" width="16" height="16" src="assets/img/image-4.350d3736.svg"></button>
+                <div class="packages-panel" id="desktop-packages-panel" aria-label="Services" hidden>
+                    <div class="goals-intro">
+                        <p>Buy any service on its own.</p>
+                    </div>
+                    <button type="button" data-inert>SEO<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Paid Search<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Social Media<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Email Marketing<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Website Design and Dev<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Bespoke Services<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                </div>
+            </div>
+            <button type="button" data-route-link="about">ABOUT</button>
+            <button type="button" data-inert>FAQ</button>
+            <button type="button" data-inert>CONTACT</button>
+        </div>
+        <div class="nav-right">
+            <button type="button" class="mode-toggle" role="switch" aria-checked="false" aria-label="Switch to night mode"><span class="mode-knob"><svg class="sun" viewBox="0 0 12 12" aria-hidden="true"><circle cx="6" cy="6" r="2"/><path d="M6 0v1M6 11v1M0 6h1M11 6h1M2 2l.7.7M9.3 9.3l.7.7M2 10l.7-.7M9.3 2.7l.7-.7"/></svg><svg class="moon" viewBox="0 0 12 12" aria-hidden="true"><path d="M10 7.5A4.5 4.5 0 0 1 4.5 2 4.5 4.5 0 1 0 10 7.5Z"/></svg></span></button>
+            <div
+            class="currency">
+                <button type="button" class="currency-toggle" aria-expanded="false" aria-controls="nav-currency-options" aria-haspopup="listbox" aria-label="Currency, USD"><span class="currency-label">USD</span><img class="currency-chevron" src="assets/img/image-4.350d3736.svg" width="16" height="16" alt=""></button>
+                <div class="currency-options" id="nav-currency-options" role="listbox" aria-label="Currency"
+                hidden>
+                    <button type="button" role="option" aria-selected="true">USD</button>
+                    <button type="button" role="option" aria-selected="false">EUR</button>
+                    <button type="button" role="option" aria-selected="false">GBP</button>
+                </div>
+        </div>
+        <button type="button" class="cart" data-inert aria-label="Cart, 0 items">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M2 3h3l2.5 12h11L21 6H6M9 20h.01M18 20h.01" />
+            </svg><span class="cart-count">0</span></button>
+        <button type="button" class="login" data-inert>LOG IN</button>
+        <button type="button" class="build-order" data-inert>Build your own</button>
+        <button id="menu-toggle" type="button" aria-label="Open menu" aria-controls="mobile-menu" aria-expanded="false">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M3 7h18M3 16h18" />
+            </svg>
+        </button>
+        </div>
+    </nav>
+    <div id="mobile-menu" role="dialog" aria-modal="true" aria-label="Navigation" hidden>
+        <button id="menu-close" type="button" aria-label="Close menu">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="m5 5 14 14M19 5 5 19" />
+            </svg>
+        </button>
+        <div class="mobile-menu-links">
+            <div class="packages-menu mobile-goals">
+                <button type="button" class="nav-packages" id="mobile-goals-toggle" aria-expanded="false" aria-controls="mobile-goals-panel">GOALS<img class="about-icon nav-chevron" alt="" width="16" height="16" src="assets/img/image-4.350d3736.svg"></button>
+                <div class="packages-panel" id="mobile-goals-panel" aria-label="Goals" hidden>
+                    <div class="goals-intro">
+                        <p>Packaged services, built around one outcome.</p>
+                    </div>
+                    <button type="button" data-inert>Be Found<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Be Chosen<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Be Remembered<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                </div>
+            </div>
+            <div class="packages-menu mobile-packages">
+                <button type="button" class="nav-packages" id="mobile-packages-toggle" aria-expanded="false" aria-controls="mobile-packages-panel">SERVICES<img class="about-icon nav-chevron" alt="" width="16" height="16" src="assets/img/image-4.350d3736.svg"></button>
+                <div class="packages-panel" id="mobile-packages-panel" aria-label="Services" hidden>
+                    <div class="goals-intro">
+                        <p>Buy any service on its own.</p>
+                    </div>
+                    <button type="button" data-inert>SEO<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Paid Search<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Social Media<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Email Marketing<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Website Design and Dev<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                    <button type="button" data-inert>Bespoke Services<img class="dropdown-arrow" src="assets/img/dropdown-arrow.svg" width="16" height="16" alt=""></button>
+                </div>
+            </div>
+            <button type="button" data-route-link="about">ABOUT</button>
+            <button type="button" data-inert>FAQ</button>
+            <button type="button" data-inert>CONTACT</button>
+        </div>
+        <button type="button" class="menu-login" data-inert>LOG IN</button>
+        <button type="button" class="build-order" data-inert>Build your own</button>
+        <button type="button" class="mode-toggle" role="switch" aria-checked="false" aria-label="Switch to night mode"><span class="mode-knob"><svg class="sun" viewBox="0 0 12 12" aria-hidden="true"><circle cx="6" cy="6" r="2"/><path d="M6 0v1M6 11v1M0 6h1M11 6h1M2 2l.7.7M9.3 9.3l.7.7M2 10l.7-.7M9.3 2.7l.7-.7"/></svg><svg class="moon" viewBox="0 0 12 12" aria-hidden="true"><path d="M10 7.5A4.5 4.5 0 0 1 4.5 2 4.5 4.5 0 1 0 10 7.5Z"/></svg></span></button>
+    </div>
+    <div id="controls">
+        <button id="mute-toggle" type="button" aria-pressed="false" aria-label="Sound off"><span class="sound-label">SOUND</span><span class="sound-icon" aria-hidden="true"><span class="bar"></span><span class="bar"></span><span class="bar"></span><span class="bar"></span><span class="bar"></span></span>
+        </button>
+        <div hidden>
+            <select id="quality">
+                <option value="high">High</option>
+                <option value="low">Low</option>
+            </select>
+        </div>
+    </div>
+    <div id="status" role="status">Loading terrain…</div>
+    <nav id="scene-rail" aria-label="Page sections">
+        <button type="button" aria-current="false"><span class="rail-marker" aria-hidden="true"></span><span class="rail-label">What we believe</span></button>
+        <button type="button" aria-current="false"><span class="rail-marker" aria-hidden="true"></span><span class="rail-label">The big idea</span></button>
+        <button type="button" aria-current="false"><span class="rail-marker" aria-hidden="true"></span><span class="rail-label">Our story</span></button>
+        <button type="button" aria-current="false"><span class="rail-marker" aria-hidden="true"></span><span class="rail-label">How it’s sold</span></button>
+        <button type="button" aria-current="false"><span class="rail-marker" aria-hidden="true"></span><span class="rail-label">Why it works</span></button>
+        <button type="button" aria-current="false"><span class="rail-marker" aria-hidden="true"></span><span class="rail-label">Get started</span></button>
+    </nav>
+    <div id="scene-jump" aria-hidden="true"></div>
+    <!-- Index Page Start -->
+    <template id="route-home">
+        <div id="hero-text" aria-label="BuzzLine Studio services">
+            <section class="story-screen s1">
+                <div class="content">
+                    <h1 data-webgl><span class="heading-line">Marketing that</span> <span class="heading-line">pays for itself.</span></h1>
+                    <p data-webgl class="body">SEO, paid search, social, email and websites. Fixed-term packages you buy online, with the price shown on every one.</p>
+                    <button type="button" class="scene-button" data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">Explore a package</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span>
+                        <span
+                        class="ring p" aria-hidden="true"></span>
+                    </button>
+                </div>
+            </section>
+            <section class="story-screen s2">
+                <div class="content"><span class="pill">How</span>
+                    <h2 data-webgl><span class="heading-line">Pick a package.</span> <span class="heading-line">Skip the pitch.</span></h2>
+                    <div class="body-block">
+                        <p data-webgl class="body">No discovery calls. No forty-page proposal. Choose a service,
+                            <br class="reference-break"> a tier and a term, pay online, and the work begins.</p>
+                        <button type="button" class="scene-button" data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">FAQs</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span><span class="ring p"
+                            aria-hidden="true"></span></button>
+                    </div>
+                </div>
+            </section>
+            <section class="story-screen s3">
+                <div class="content">
+                    <div class="title-column"><span class="pill">Why</span>
+                        <h2 data-webgl><span class="heading-line">Attention is</span> <span class="heading-line">the only currency.</span></h2></div>
+                    <div class="body-block">
+                        <p data-webgl class="body">Every brand is shouting. The ones that win
+                            <br class="reference-break"> aren't louder. They're clearer. Our job is to make
+                            <br class="reference-break"> you the obvious choice in a crowded feed.</p>
+                        <button type="button" class="scene-button" data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">Why Buzzline</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span><span class="ring p"
+                            aria-hidden="true"></span></button>
+                    </div>
+                </div>
+            </section>
+            <section class="story-screen s4">
+                <div class="content"><span class="pill">Goals</span>
+                    <h2 data-webgl><span class="heading-line">Start with</span> <span class="heading-line">the goal.</span></h2>
+                    <div class="body-block">
+                        <p data-webgl class="body">Three goals: Be Found, Be Chosen, Be Remembered. Each one is a set of services that does a single job, with the tier and the term already set. Buy it as it stands, or change any part first.</p>
+                        <button type="button" class="scene-button"
+                        data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">See the goals</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span>
+                            <span
+                            class="ring p" aria-hidden="true"></span>
+                        </button>
+                    </div>
+                </div>
+            </section>
+            <section class="story-screen s5">
+                <div class="content"><span class="pill">Who</span>
+                    <h2 data-webgl><span class="heading-line">Start small.</span> <span class="heading-line">Scale what works.</span></h2>
+                    <div class="body-block">
+                        <p data-webgl class="body">Try one channel for a month. Add another when you see what it
+                            <br class="reference-break"> does. Every package has a start date, an end date and a price,
+                            <br class="reference-break"> so you're never locked into anything.</p>
+                        <button type="button" class="scene-button" data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">Start now</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span><span class="ring p"
+                            aria-hidden="true"></span></button>
+                    </div>
+                </div>
+            </section>
+            <section class="story-screen s6">
+                <div class="content"><span class="pill">Next</span>
+                    <h2 data-webgl><span class="heading-line">Ready when</span> <span class="heading-line">you are</span></h2>
+                    <p data-webgl class="body">Select the perfect package for your needs, complete your payment securely online, and
+                        <br class="reference-break"> dive into your new experience immediately with complete confidence and ease</p>
+                    <button type="button" class="scene-button" data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">Explore packages</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span><span class="ring p"
+                        aria-hidden="true"></span></button>
+                </div>
+                <footer class="action-footer figma-footer" aria-label="Footer">
+                    <div class="footer-grid">
+                        <div class="footer-brand"><img class="wordmark" alt="BuzzLine Studio" src="assets/img/footer/footer-logo.svg">
+                            <p>Fixed-term marketing services
+                                <br class="footer-desktop-break"> you buy online.</p><img class="payment-logos" alt="Visa and Mastercard" src="assets/img/footer/footer-payments.svg">
+                            <div class="footer-social">
+                                <button type="button" data-inert aria-label="Facebook"><img alt="" width="24" height="24" src="assets/img/footer/footer-facebook.svg">
+                                </button>
+                                <button type="button" data-inert aria-label="Instagram"><img alt="" width="24" height="24" src="assets/img/footer/footer-instagram.svg">
+                                </button>
+                            </div>
+                        </div>
+                        <div class="footer-links">
+                            <div>
+                                <h3>Goals</h3>
+                                <button type="button" data-inert>Be Found</button>
+                                <button type="button" data-inert>Be Chosen</button>
+                                <button type="button" data-inert>Be Remembered</button>
+                            </div>
+                            <div>
+                                <h3>Services</h3>
+                                <button type="button" data-inert>SEO</button>
+                                <button type="button" data-inert>Paid Search</button>
+                                <button type="button" data-inert>Social Media</button>
+                                <button type="button" data-inert>Email Marketing</button>
+                                <button type="button" data-inert>Website Design and Dev</button>
+                                <button type="button" data-inert>Bespoke Services</button>
+                            </div>
+                            <div>
+                                <h3>Company</h3>
+                                <button type="button" data-inert>About</button>
+                                <button type="button" data-inert>FAQs</button>
+                                <button type="button" data-inert>Contact</button>
+                                <button type="button" data-inert>Sign in</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-hairline"></div>
+                    <div class="footer-legal"><span>© 2026 BuzzLineStudio.</span>
+                        <div>
+                            <button type="button" data-inert>Terms &amp; conditions</button>
+                            <button type="button" data-inert>Privacy policy</button>
+                        </div>
+                    </div>
+                </footer>
+            </section>
+        </div>
+    </template>
+    <!-- Index Page End -->
+
+    <!-- About Page Start -->
+    <template id="route-about">
+        <div id="hero-text" aria-label="BuzzLine Studio services">
+            <section class="story-screen s1">
+                <div class="content">
+                    <h1 data-webgl>Clear beats loud.</h1>
+                    <p data-webgl class="body">BuzzLine exists because most marketing shouts and few people listen. We build the channels that make a brand the obvious choice, and we sell them as packages you can price in a minute.</p>
+                </div>
+            </section>
+            <section class="story-screen s2">
+                <div class="content">
+                    <h2 data-webgl>Marketing you can buy in a minute, not a quarter.</h2>
+                    <div class="about-columns about-dom">
+                        <div class="about-copy">
+                            <p>BuzzLine began with a simple question: Why does purchasing marketing services require three meetings and a forty-page proposal?</p>
+                            <p>The process itself isn't complicated. It's about search, paid ads, social media, email, and websites, delivered monthly and measured transparently to ensure real results.</p>
+                        </div>
+                        <div class="about-copy">
+                            <p>So we packaged it. Five channels, five tiers each, a fixed term and a price on every one. You choose, you pay, the work starts.</p>
+                            <p>Today BuzzLine runs channels for brands across Europe and North America, from a first campaign to the full stack.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="story-screen s3">
+                <div class="content">
+                    <h2 data-webgl>Why BuzzLine was started.</h2>
+                    <div data-webgl class="body about-copy">
+                        <p>BuzzLine started with one question. Why does buying marketing take three meetings and a forty page proposal? The work itself is not mysterious. Search, paid, social, email and websites, done monthly and measured honestly.</p>
+                        <p>So we packaged it. Five channels, five tiers each, a fixed term and a price on every one. You choose, you pay, the work starts.</p>
+                        <p>Today BuzzLine runs channels for brands across Europe and North America, from a first campaign to the full stack.</p>
+                    </div>
+                    <button type="button" class="scene-button" data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">Explore packages</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span><span class="ring p"
+                        aria-hidden="true"></span></button>
+                </div>
+            </section>
+            <section class="story-screen s4">
+                <div class="content">
+                    <h2 data-webgl>Transparent and Straightforward.</h2>
+                    <div class="about-tile-block">
+                        <div class="about-tiles about-dom">
+                            <article class="about-tile">
+                                <h3>Five channels</h3>
+                                <div class="about-chips"><span>SEO</span><span>Paid search</span><span>Social media</span><span>Email marketing</span><span>Website Design and Dev</span></div>
+                            </article>
+                            <article class="about-tile"><img class="about-icon " alt="" width="32" height="32" src="assets/img/image-5.7d26f70c.svg">
+                                <h3>Fixed terms. 1, 3, 6 or 12 months. Nothing renews on its own.</h3></article>
+                            <article class="about-tile"><img class="about-icon " alt="" width="28" height="28" src="assets/img/image-6.3fa4a621.svg">
+                                <h3>Fixed prices, no setup fees, no hidden costs. The number on the page is the number on the invoice.</h3></article>
+                        </div>
+                        <button type="button" class="scene-button" data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">Got questions?</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span>
+                            <span
+                            class="ring p" aria-hidden="true"></span>
+                        </button>
+                    </div>
+                </div>
+            </section>
+            <section class="story-screen s5">
+                <div class="content">
+                    <h2 data-webgl>Why it works.</h2>
+                    <div class="about-steps about-dom">
+                        <article class="about-step"><span class="about-step-icon"><img class="about-icon " alt="" width="24" height="24" src="assets/img/image-7.7dfbd080.svg"></span>
+                            <h3>Set the goal</h3>
+                            <p>One call to agree what the channel is for. Leads, sales, sign ups or reach. One number we can point at.</p>
+                        </article>
+                        <article class="about-step"><span class="about-step-icon"><img class="about-icon " alt="" width="24" height="24" src="assets/img/image-8.ffd39e5e.svg"></span>
+                            <h3>Ship monthly</h3>
+                            <p>Fixes, campaigns, posts and sends go out against a published plan. You always know what shipped and why.</p>
+                        </article>
+                        <article class="about-step"><span class="about-step-icon"><img class="about-icon " alt="" width="24" height="24" src="assets/img/image-9.b63bd9fa.svg"></span>
+                            <h3>Report the numbers</h3>
+                            <p>What it cost, what it made, what changes next. One page, plain English, every month.</p>
+                        </article>
+                    </div>
+                </div>
+            </section>
+            <section class="story-screen s6">
+                <div class="content"><span class="pill">Next</span>
+                    <h2 data-webgl>Start with one channel.</h2>
+                    <p data-webgl class="body">Try a package for a month and explore all its features in depth. Once you see how it enhances your workflow and adds value, consider adding another package to expand your capabilities even further. This way, you can tailor your experience
+                        to perfectly suit your needs and maximize productivity.</p>
+                    <button type="button" class="scene-button" data-inert><span class="g r" aria-hidden="true"></span><span class="g c" aria-hidden="true"></span><span class="face">Choose a package</span><span class="ring r" aria-hidden="true"></span><span class="ring c" aria-hidden="true"></span><span class="ring p"
+                        aria-hidden="true"></span></button>
+                </div>
+                <footer class="action-footer figma-footer" aria-label="Footer">
+                    <div class="footer-grid">
+                        <div class="footer-brand"><img class="wordmark" alt="BuzzLine Studio" src="assets/img/footer/footer-logo.svg">
+                            <p>Fixed-term marketing services
+                                <br class="footer-desktop-break"> you buy online.</p><img class="payment-logos" alt="Visa and Mastercard" src="assets/img/footer/footer-payments.svg">
+                            <div class="footer-social">
+                                <button type="button" data-inert aria-label="Facebook"><img alt="" width="24" height="24" src="assets/img/footer/footer-facebook.svg">
+                                </button>
+                                <button type="button" data-inert aria-label="Instagram"><img alt="" width="24" height="24" src="assets/img/footer/footer-instagram.svg">
+                                </button>
+                            </div>
+                        </div>
+                        <div class="footer-links">
+                            <div>
+                                <h3>Goals</h3>
+                                <button type="button" data-inert>Be Found</button>
+                                <button type="button" data-inert>Be Chosen</button>
+                                <button type="button" data-inert>Be Remembered</button>
+                            </div>
+                            <div>
+                                <h3>Services</h3>
+                                <button type="button" data-inert>SEO</button>
+                                <button type="button" data-inert>Paid Search</button>
+                                <button type="button" data-inert>Social Media</button>
+                                <button type="button" data-inert>Email Marketing</button>
+                                <button type="button" data-inert>Website Design and Dev</button>
+                                <button type="button" data-inert>Bespoke Services</button>
+                            </div>
+                            <div>
+                                <h3>Company</h3>
+                                <button type="button" data-inert>About</button>
+                                <button type="button" data-inert>FAQs</button>
+                                <button type="button" data-inert>Contact</button>
+                                <button type="button" data-inert>Sign in</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-hairline"></div>
+                    <div class="footer-legal"><span>© 2026 BuzzLineStudio.</span>
+                        <div>
+                            <button type="button" data-inert>Terms &amp; conditions</button>
+                            <button type="button" data-inert>Privacy policy</button>
+                        </div>
+                    </div>
+                </footer>
+            </section>
+        </div>
+    </template>
+    <!-- About Page End -->
+    <div id="route-veil" aria-hidden="true"></div>
+    <script type="module" src="assets/js/script.js"></script>
+</body>
+
+</html>
+<!-- Bitangent Noise: https://github.com/atyuwen/bitangent_noise
+MIT License
+
+Copyright (c) 2021 Yuwen Wu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-->
