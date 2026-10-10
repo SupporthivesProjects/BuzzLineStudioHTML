@@ -93,6 +93,12 @@
     margin-bottom: 0px;
 
 }
+.nav-link.active{
+    color: var(--brand-accent, #6A2BF0);
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: var(--brand-accent, #6A2BF0);
+}
 .dropdown-item{
     padding: 0px 0px;
     color: var(--brand-ink, #0F0F0F);
