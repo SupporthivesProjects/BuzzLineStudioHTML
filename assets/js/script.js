@@ -16690,7 +16690,7 @@ async function ew(n) {
         }
     }
 }
-const tw = "assets/tex/texture-1.f89dfc8b.webp";
+const tw = "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-1.f89dfc8b.webp";
 class ec extends Bt {
     constructor(e, t = {}) {
         super(e), this.isReflector = !0, this.type = "Reflector", this.camera = new fi;
@@ -16802,14 +16802,14 @@ ec.ReflectorShader = {
         }`
 };
 const hg = {
-        noise: "assets/tex/texture-2.482f72dc.webp",
-        grass: "assets/tex/texture-3.1bd52993.webp",
-        normalA: "assets/tex/texture-4.a452c08c.webp",
-        normalB: "assets/tex/texture-5.38518768.webp"
+        noise: "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-2.482f72dc.webp",
+        grass: "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-3.1bd52993.webp",
+        normalA: "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-4.a452c08c.webp",
+        normalB: "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-5.38518768.webp"
     },
     iw = {
-        "005": "assets/tex/texture-6.59ba966c.webp",
-        "006": "assets/tex/texture-7.07b55f35.webp"
+        "005": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-6.59ba966c.webp",
+        "006": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-7.07b55f35.webp"
     };
 async function nw(n, e, t, i, r, o, s) {
     const g = Math.floor(2304 * t.grassDensity),
@@ -29810,97 +29810,97 @@ function setupEntrySession(audio) {
 
 async function prepareSceneAssets() {
     const assets = [{
-        "path": "assets/tex/texture-1.f89dfc8b.webp",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-1.f89dfc8b.webp",
         "kind": "tex",
         "mime": "image/webp",
         "bytes": 53576,
         "sha256": "f89dfc8ba843c4cbb545ca1ff0bdab046db37a55e597e2c521a5b406ad3f8710"
     }, {
-        "path": "assets/tex/texture-2.482f72dc.webp",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-2.482f72dc.webp",
         "kind": "tex",
         "mime": "image/webp",
         "bytes": 46044,
         "sha256": "482f72dc3d9b8f8e26a8970d467946275110dac5e4cbfe1a89c16fd9193041dd"
     }, {
-        "path": "assets/tex/texture-3.1bd52993.webp",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-3.1bd52993.webp",
         "kind": "tex",
         "mime": "image/webp",
         "bytes": 34496,
         "sha256": "1bd529930963f33c4054b11db0aee3d60ca6fff9ff690d529c3f95437b1b3dd6"
     }, {
-        "path": "assets/tex/texture-4.a452c08c.webp",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-4.a452c08c.webp",
         "kind": "tex",
         "mime": "image/webp",
         "bytes": 310656,
         "sha256": "a452c08c07cc09699c30405fd9fbd85a4024a73b3baf135fcb55360248692ede"
     }, {
-        "path": "assets/tex/texture-5.38518768.webp",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-5.38518768.webp",
         "kind": "tex",
         "mime": "image/webp",
         "bytes": 325976,
         "sha256": "3851876821ceb277a6118cacb9de83389d25cc7b71003b4bd5b5da9e73700b73"
     }, {
-        "path": "assets/tex/texture-6.59ba966c.webp",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-6.59ba966c.webp",
         "kind": "tex",
         "mime": "image/webp",
         "bytes": 156186,
         "sha256": "59ba966c6fc76406f7d10aeb38ffad37be810f4287872e77cc74388e534d4668"
     }, {
-        "path": "assets/tex/texture-7.07b55f35.webp",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/tex/texture-7.07b55f35.webp",
         "kind": "tex",
         "mime": "image/webp",
         "bytes": 390704,
         "sha256": "07b55f352b707929dfdf09283b59c8c3431db97b33066fa0567596399592dcc0"
     }, {
-        "path": "assets/img/image-1.27a90113.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-1.27a90113.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 10359,
         "sha256": "27a901130e630ac5735d0d5a926ae971f465f7f92a916814e25ab8613415212d"
     }, {
-        "path": "assets/img/image-2.e16b64a0.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-2.e16b64a0.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 10359,
         "sha256": "e16b64a0ce5a5815ef2094efd5b32b2fcd662b60a6c1f7d0cfb9e3716bcb42f4"
     }, {
-        "path": "assets/img/image-3.b8c5ace4.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-3.b8c5ace4.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 1110,
         "sha256": "b8c5ace49b4ab728e0ce0ae0adb7903e8d425674a9f87009d6fb2e3d3349b1e6"
     }, {
-        "path": "assets/img/image-4.350d3736.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-4.350d3736.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 212,
         "sha256": "350d373698a669f1fc548c90faabad14ecd77bcd0b32a8bd0b7e0cecf3a6e4f0"
     }, {
-        "path": "assets/img/image-5.7d26f70c.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-5.7d26f70c.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 810,
         "sha256": "7d26f70c3c601d6d9a63fc27a5f42e58e226efd02c023780c89408a912f4cf5d"
     }, {
-        "path": "assets/img/image-6.3fa4a621.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-6.3fa4a621.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 751,
         "sha256": "3fa4a621665d2c4e160a4623a27712f9e69693bd49bd35da1516da56d32d4db3"
     }, {
-        "path": "assets/img/image-7.7dfbd080.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-7.7dfbd080.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 360,
         "sha256": "7dfbd0806ca054e7792a7bc58e29fdf4bd33033430641726830210baf07f1bb0"
     }, {
-        "path": "assets/img/image-8.ffd39e5e.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-8.ffd39e5e.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 687,
         "sha256": "ffd39e5e3c377a5d447b3c0e6d10c56509f2b02267088242b8176c66d44e77a7"
     }, {
-        "path": "assets/img/image-9.b63bd9fa.svg",
+        "path": "https://learn.supporthives.com/BuzzLineStudioHTML/assets/img/image-9.b63bd9fa.svg",
         "kind": "img",
         "mime": "image/svg+xml",
         "bytes": 651,
