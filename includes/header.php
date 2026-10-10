@@ -81,7 +81,7 @@
                 <a class="nav-link" href="ourstory.php">FAQs</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="ourstory.php">Contact</a>
+                <a class="nav-link active" href="ourstory.php">Contact</a>
               </li>
             </ul>
             <div class="d-flex d-right-mo" role="search">
