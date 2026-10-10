@@ -108,6 +108,7 @@
     <script src="uiframe/js/flickity.pkgd.min.js"></script>   
     <script src="uiframe/js/aos.js"></script>
     <script src="./uiframe/js/home-js.js"></script>
+    <script src="uiframe/js/jquery.min.js"></script>
 
 
     <!-- Motion -->
