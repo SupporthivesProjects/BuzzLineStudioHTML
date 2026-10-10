@@ -1,0 +1,546 @@
+.login-page {
+  display: flex;
+padding: 96px 0px 120px 0px;
+flex-direction: column;
+align-items: center;
+align-self: stretch;
+justify-content: center;
+margin-top: 84px;
+}
+
+.login-page__video{
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.login-page__video {
+  object-fit: cover;
+}
+
+.login-c{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+align-self: stretch;
+}
+
+.login-card {
+  display: flex;
+width: 600px;
+padding: 56px;
+flex-direction: column;
+align-items: flex-start;
+gap: 32px;
+border-radius: var(--radius-xl, 24px);
+border: 1px solid var(--base-04, #E9E9E9);
+background: var(--base-white, #FFF);
+}
+
+#login-title {
+  color: var(--brand-ink, #0F0F0F);
+font-family: Onest;
+font-size: 48px ;
+font-style: normal;
+font-weight: 500;
+line-height: 120%; /* 57.6px */
+margin: 0px !important;
+}
+
+.login-card-intro {
+  color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 24px */
+margin: 0px !important;
+}
+
+.login-f{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 20px;
+align-self: stretch;
+}
+
+
+.login-card__field {
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+align-self: stretch;
+}
+
+.login-card__field label{
+  color: var(--brand-ink, #0F0F0F);
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+}
+
+.login-card__field input {
+  display: flex;
+padding: 16px 20px;
+align-items: center;
+gap: 12px;
+align-self: stretch;
+border-radius: var(--radius-s, 8px);
+border: 1px solid var(--brand-line-12, rgba(15, 15, 15, 0.12));
+background: var(--base-white, #FFF);
+color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+}
+
+.login-card__forgot {
+  color: var(--brand-accent, #6A2BF0);
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 21px */
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: auto;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-underline-position: from-font;
+}
+
+.login-card__submit {
+  display: flex;
+padding: 16px 28px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+align-self: stretch;
+border-radius: var(--radius-full, 999px);
+background: var(--brand-accent, #6A2BF0);
+color: var(--base-white, #FFF);
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 120%; 
+margin: 0px;
+}
+
+.login-card__signup {
+  color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+margin: 0px;
+}
+
+.login-card__signup a{
+  text-decoration: none;
+  color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+}
+
+.login-c-f{
+  color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+margin: 0px;
+}
+
+.login-c-f a{
+  color: var(--brand-accent, #6A2BF0);
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: auto;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-underline-position: from-font;
+}
+
+.signup-card__terms {
+  display: flex;
+align-items: flex-start;
+gap: 12px;
+align-self: stretch;
+margin: 0px !important;
+}
+
+.signup-card__terms input{
+  width: 20px;
+height: 20px;
+border-radius: var(--radius-xs, 4px);
+border: 1px solid var(--brand-line-12, rgba(15, 15, 15, 0.12));
+background: var(--base-white, #FFF);
+}
+
+.signup-card__terms label{
+  color: var(--brand-ink, #0F0F0F);
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 21px */
+}
+
+.signup-card__terms a{
+  color: var(--brand-ink, #0F0F0F);
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: auto;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-underline-position: from-font;
+}
+
+.signup-card__recaptcha {
+  display: block;
+  width: 209px;
+  max-width: 100%;
+  height: auto;
+}
+
+
+@media (max-width: 600px) {
+  .login-page {
+    display: flex;
+padding: 24px;
+flex-direction: column;
+align-items: flex-start;
+align-self: stretch;
+margin-top: 65px;
+  }
+
+  .login-page__video{
+    width: 100%;
+height: 100%;
+aspect-ratio: 49/75;
+  }
+
+  .login-card {
+    display: flex;
+padding: 32px 24px;
+flex-direction: column;
+align-items: flex-start;
+gap: 24px;
+align-self: stretch;
+border-radius: var(--radius-l, 16px);
+border: 1px solid var(--base-04, #E9E9E9);
+background: var(--base-white, #FFF);
+width: auto;
+  }
+
+  .login-c{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+align-self: stretch;
+  }
+
+  .login-card-title{
+    color: var(--brand-ink, #0F0F0F);
+font-family: Onest;
+font-size: 28px !important;
+font-style: normal;
+font-weight: 500;
+line-height: 130%; 
+margin: 0px !important;
+  }
+
+  .login-card-intro{
+    color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+margin: 0px;
+  }
+
+  .login-f{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 16px;
+align-self: stretch;
+  }
+
+  .login-card__field{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+align-self: stretch;
+  }
+
+  .login-card__field label{
+    color: var(--brand-ink, #0F0F0F);
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+  }
+
+  .login-card__field input{
+    display: flex;
+padding: 16px 20px;
+align-items: center;
+gap: 12px;
+align-self: stretch;
+border-radius: var(--radius-s, 8px);
+border: 1px solid var(--brand-line-12, rgba(15, 15, 15, 0.12));
+background: var(--base-white, #FFF);
+color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+  }
+
+  .login-card__forgot{
+    color: var(--brand-accent, #6A2BF0);
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: auto;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-underline-position: from-font;
+  }
+
+  .login-card__submit{
+    display: flex;
+padding: 16px 28px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+align-self: stretch;
+border-radius: var(--radius-full, 999px);
+background: var(--brand-accent, #6A2BF0);
+color: var(--base-white, #FFF);
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 120%; 
+  }
+
+  .login-card__signup{
+    color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+  }
+
+  .login-card__signup a{
+    text-decoration: none;
+    color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+font-family: Onest;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+  }
+
+}
+
+
+
+
+/*Modal css*/
+
+.forgot-password-modal{
+  background: var(--brand-overlay-80, rgba(15, 15, 15, 0.80));
+  padding: 0px !important;
+}
+.forgot-password-modal-section{
+  padding: 0;
+}
+
+.modal-backdrop.show {
+  z-index: 2000;
+  background: var(--brand-overlay-80, rgba(15, 15, 15, 0.80));
+  opacity: 0.72;
+}
+
+#resetConfirmationModal.forgot-password-modal {
+  z-index: 2001;
+}
+
+.forgot-password-modal .modal-dialog {
+  width: auto;
+  height: auto;
+  max-width: 560px;
+}
+
+/*.forgot-password-modal .modal-content {
+  overflow: hidden;
+  border: 0;
+  border-radius: var(--radius-xl, 24px);
+  background: #fff;
+}
+*/
+.forgot-password-modal .modal-body {
+  display: flex;
+width: 560px;
+padding: 56px;
+flex-direction: column;
+align-items: center;
+gap: 24px;
+border-radius: var(--radius-xl, 24px);
+background: var(--base-white, #FFF);
+  opacity: 1;
+}
+
+.forgot-password-modal__icon {
+  display: flex;
+width: 72px;
+height: 72px;
+justify-content: center;
+align-items: center;
+border-radius: var(--radius-full, 999px);
+background: var(--brand-lavender-soft, #F5EEFF);
+}
+
+.forgot-password-modal__icon svg {
+  width: 24px;
+height: 24px;
+flex-shrink: 0;
+}
+
+.forgot-password-modal .modal-body h2 {
+  color: var(--brand-ink, #0F0F0F);
+text-align: center;
+
+/* heading / h3 */
+font-family: Onest;
+font-size: 28px;
+font-style: normal;
+font-weight: 500;
+line-height: 130%;
+margin: 0px;
+}
+.forgot-password-modal .modal-body p {
+  color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+text-align: center;
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+margin: 0px;
+}
+
+.forgot-password-modal__button {
+  display: flex;
+padding: 16px 28px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+align-self: stretch;
+border-radius: var(--radius-full, 999px);
+background: var(--brand-accent, #6A2BF0);
+color: var(--base-white, #FFF);
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 120%; 
+margin: 0px;
+text-decoration: none;
+}
+
+
+@media (max-width: 600px) {
+
+  .forgot-password-modal{
+  background: var(--brand-overlay-80, rgba(15, 15, 15, 0.80));
+  padding: 0px !important;
+}
+  
+
+  .modal-body{
+    display: flex !important;
+width: 327px !important;
+padding: 32px 24px !important;
+flex-direction: column !important;
+align-items: center !important;
+gap: 20px !important;
+border-radius: var(--radius-l, 16px) !important;
+background: var(--base-white, #FFF) !important;
+  }
+
+  .modal-content h2{
+    color: var(--brand-ink, #0F0F0F);
+text-align: center;
+font-family: Onest;
+font-size: 28px;
+font-style: normal;
+font-weight: 500;
+line-height: 130%; 
+  }
+
+  .modal-content p{
+    color: var(--brand-ink-muted-64, rgba(15, 15, 15, 0.64));
+text-align: center;
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+  }
+
+  .modal-content button{
+    display: flex;
+padding: 16px 28px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+align-self: stretch;
+border-radius: var(--radius-full, 999px);
+background: var(--brand-accent, #6A2BF0);
+color: var(--base-white, #FFF);
+font-family: Onest;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 120%; 
+  }
+}
