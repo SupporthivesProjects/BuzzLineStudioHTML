@@ -86,28 +86,23 @@ Content, community and paid boosts, run as one <br>  calendar.      </h2>
       <div class="seo_second_section_items">
 
         <div class="seo_second_section_item">
-          <h3>What SEO means here</h3>
+          <h3>What social means here</h3>
           <p>
-            Technical health, content and authority, worked as one
-            programme. We fix what blocks crawl, write what earns
-            rank and build what earns trust.
+           Posts, stories and reels planned monthly and published for you, plus the comments and messages answered in your voice.
           </p>
         </div>
 
         <div class="seo_second_section_item">
           <h3>How the programme runs</h3>
           <p>
-            Fixes, content and links ship monthly against a published
-            plan. You always know what went live and what it moved.
+           A content calendar lands at the start of the month. Everything on it ships. Winning posts get paid budget behind them.
           </p>
         </div>
 
         <div class="seo_second_section_item">
           <h3>Why it pays for itself</h3>
           <p>
-            Organic traffic is the only channel that gets cheaper as
-            it grows. Every ranking gained keeps paying without another
-            pound of spend.
+          A consistent feed is the cheapest trust signal a brand can buy. People check it before they buy.
           </p>
         </div>
 
@@ -147,118 +142,100 @@ Every social tier ships with the essentials.     </h2>
             </svg>
           </div>
 
-          <h3>Free setup</h3>
+          <h3>Free setup and profile optimisation</h3>
 
           <p>
-            Everything running from day one, at no extra cost.
-          </p>
+Profiles tidied, branded and ready to grow.          </p>
         </div>
 
 
         <!-- CARD 2 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M21 21L16.65 16.65M19 11C19 15.4183 15.4183 19 11 19C6.58172 19 3 15.4183 3 11C3 6.58172 6.58172 3 11 3C15.4183 3 19 6.58172 19 11Z"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M21 10H3M16 2V6M8 2V6M7.8 22H16.2C17.8802 22 18.7202 22 19.362 21.673C19.9265 21.3854 20.3854 20.9265 20.673 20.362C21 19.7202 21 18.8802 21 17.2V8.8C21 7.11984 21 6.27976 20.673 5.63803C20.3854 5.07354 19.9265 4.6146 19.362 4.32698C18.7202 4 17.8802 4 16.2 4H7.8C6.11984 4 5.27976 4 4.63803 4.32698C4.07354 4.6146 3.6146 5.07354 3.32698 5.63803C3 6.27976 3 7.11984 3 8.8V17.2C3 18.8802 3 19.7202 3.32698 20.362C3.6146 20.9265 4.07354 21.3854 4.63803 21.673C5.27976 22 6.11984 22 7.8 22Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Keyword and competitor research</h3>
+          <h3>Monthly content calendar</h3>
 
           <p>
-            What your buyers search, and who ranks for it.
-          </p>
+The month planned and signed off in advance.          </p>
         </div>
 
 
         <!-- CARD 3 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M22 9H2M14 17.5L16.5 15L14 12.5M10 12.5L7.5 15L10 17.5M2 7.8V16.2C2 17.8802 2 18.7202 2.32698 19.362C2.6146 19.9265 3.07354 20.3854 3.63803 20.673C4.27976 21 5.11984 21 6.8 21H17.2C18.8802 21 19.7202 21 20.362 20.673C20.9265 20.3854 21.3854 19.9265 21.673 19.362C22 18.7202 22 17.8802 22 16.2V7.8C22 6.11984 22 5.27977 21.673 4.63803C21.3854 4.07354 20.9265 3.6146 20.362 3.32698C19.7202 3 18.8802 3 17.2 3H6.8C5.11984 3 4.27976 3 3.63803 3.32698C3.07354 3.6146 2.6146 4.07354 2.32698 4.63803C2 5.27976 2 6.11984 2 7.8Z"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M18 10.0001L14 6.00006M2.5 21.5001L5.88437 21.1241C6.29786 21.0781 6.5046 21.0551 6.69785 20.9926C6.86929 20.9371 7.03245 20.8587 7.18289 20.7595C7.35245 20.6476 7.49954 20.5006 7.79373 20.2064L21 7.00006C22.1046 5.89549 22.1046 4.10463 21 3.00006C19.8954 1.89549 18.1046 1.89549 17 3.00006L3.79373 16.2064C3.49955 16.5006 3.35245 16.6476 3.24064 16.8172C3.14143 16.9677 3.06301 17.1308 3.00751 17.3023C2.94496 17.4955 2.92198 17.7022 2.87604 18.1157L2.5 21.5001Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Technical and on-page optimisation</h3>
+          <h3>Written and designed posts</h3>
 
           <p>
-            Crawl blockers fixed and pages tuned to rank.
-          </p>
+Copy and design done for you, on brand.          </p>
         </div>
 
 
         <!-- CARD 4 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M22 12C22 17.5228 17.5228 22 12 22M22 12C22 6.47715 17.5228 2 12 2M22 12H18M12 22C6.47715 22 2 17.5228 2 12M12 22V18M12 2C6.47715 2 2 6.47715 2 12M12 2V6M2 12H6"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M21 21H4.6C4.03995 21 3.75992 21 3.54601 20.891C3.35785 20.7951 3.20487 20.6422 3.10899 20.454C3 20.2401 3 19.9601 3 19.4V3M20 8L16.0811 12.1827C15.9326 12.3412 15.8584 12.4204 15.7688 12.4614C15.6897 12.4976 15.6026 12.5125 15.516 12.5047C15.4179 12.4958 15.3215 12.4458 15.1287 12.3457L11.8713 10.6543C11.6785 10.5542 11.5821 10.5042 11.484 10.4953C11.3974 10.4875 11.3103 10.5024 11.2312 10.5386C11.1416 10.5796 11.0674 10.6588 10.9189 10.8173L7 15" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Google Business Profile optimisation</h3>
+          <h3>Hashtag and trend research</h3>
 
           <p>
-            Found properly in local search and Maps.
-          </p>
+What is moving in your niche, used while it is fresh.          </p>
         </div>
 
 
         <!-- CARD 5 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M21 21H4.6C4.03995 21 3.75992 21 3.54601 20.891C3.35785 20.7951 3.20487 20.6422 3.10899 20.454C3 20.2401 3 19.9601 3 19.4V3M20 8L16.0811 12.1827C15.9326 12.3412 15.8584 12.4204 15.7688 12.4614C15.6897 12.4976 15.6026 12.5125 15.516 12.5047C15.4179 12.4958 15.3215 12.4458 15.1287 12.3457L11.8713 10.6543C11.6785 10.5542 11.5821 10.5042 11.484 10.4953C11.3974 10.4875 11.3103 10.5024 11.2312 10.5386C11.1416 10.5796 11.0674 10.6588 10.9189 10.8173L7 15"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M18 20V10M12 20V4M6 20V14" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Daily rank tracking</h3>
+          <h3>Monthly analytics report</h3>
 
           <p>
-            Every target keyword checked, every day.
-          </p>
+What grew, what changed, in plain English.          </p>
         </div>
 
 
         <!-- CARD 6 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path d="M18 20V10M12 20V4M6 20V14" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                stroke-linejoin="round" />
-            </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M20.9986 11.5C20.9986 16.1944 17.193 20 12.4986 20C11.4218 20 10.3918 19.7998 9.44381 19.4345C9.27048 19.3678 9.18381 19.3344 9.11489 19.3185C9.0471 19.3029 8.99803 19.2963 8.92852 19.2937C8.85784 19.291 8.7803 19.299 8.62522 19.315L3.5042 19.8444C3.01595 19.8948 2.77183 19.9201 2.62783 19.8322C2.5024 19.7557 2.41697 19.6279 2.39423 19.4828C2.36812 19.3161 2.48478 19.1002 2.71809 18.6684L4.35375 15.6408C4.48845 15.3915 4.5558 15.2668 4.58631 15.1469C4.61643 15.0286 4.62372 14.9432 4.61408 14.8214C4.60432 14.6981 4.55022 14.5376 4.44203 14.2166C4.1545 13.3636 3.99865 12.45 3.99865 11.5C3.99865 6.80558 7.80423 3 12.4986 3C17.193 3 20.9986 6.80558 20.9986 11.5Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Monthly report</h3>
+          <h3>Support 7 days a week</h3>
 
           <p>
-            What moved, why, and what comes next.
-          </p>
+A real person, every day of the week.          </p>
         </div>
 
 
         <!-- CARD 7 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M20.9986 11.5C20.9986 16.1944 17.193 20 12.4986 20C11.4218 20 10.3918 19.7998 9.44381 19.4345C9.27048 19.3678 9.18381 19.3344 9.11489 19.3185C9.0471 19.3029 8.99803 19.2963 8.92852 19.2937C8.85784 19.291 8.7803 19.299 8.62522 19.315L3.5042 19.8444C3.01595 19.8948 2.77183 19.9201 2.62783 19.8322C2.5024 19.7557 2.41697 19.6279 2.39423 19.4828C2.36812 19.3161 2.48478 19.1002 2.71809 18.6684L4.35375 15.6408C4.48845 15.3915 4.5558 15.2668 4.58631 15.1469C4.61643 15.0286 4.62372 14.9432 4.61408 14.8214C4.60432 14.6981 4.55022 14.5376 4.44203 14.2166C4.1545 13.3636 3.99865 12.45 3.99865 11.5C3.99865 6.80558 7.80423 3 12.4986 3C17.193 3 20.9986 6.80558 20.9986 11.5Z"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M20 6L9 17L4 12" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Support 7 days a week</h3>
+          <h3>No contract, cancel anytime</h3>
 
           <p>
-            A real person, every day of the week.
-          </p>
+Stay because it works, not because you are tied in.          </p>
         </div>
 
 
@@ -271,11 +248,10 @@ Every social tier ships with the essentials.     </h2>
             </svg>
           </div>
 
-          <h3>No contract, cancel anytime</h3>
+          <h3>You own everything</h3>
 
           <p>
-            Stay because it works, not because you are tied in.
-          </p>
+Every post and design is yours to keep, even if you leave.           </p>
         </div>
 
       </div>
@@ -314,8 +290,7 @@ Every social tier ships with the essentials.     </h2>
         </h2>
 
         <p class="seo_third_section_description">
-          You always know where the budget went, what it bought and what
-          we are changing. Spend that is watched every week, not left running.
+         You always know what is going out, when, and what it did. A feed that stays alive without you having to feed it.
         </p>
 
       </div>
@@ -334,10 +309,7 @@ Every social tier ships with the essentials.     </h2>
             <h3>We talk</h3>
 
             <p>
-              One call to agree what a lead or an order is worth to you
-              and how much you are willing to pay for one. From that we
-              set the budget, the forms and the searches to bid on, and
-              we write the first ads with you.
+            One call on how you talk, who you are talking to and which platforms your customers actually use. We build the first month of content around that, and you approve the calendar before anything is posted.
             </p>
           </div>
 
@@ -355,10 +327,7 @@ Every social tier ships with the essentials.     </h2>
             <h3>We ship</h3>
 
             <p>
-              Campaigns go live within the first week. Bids and negatives
-              are adjusted every week against the target cost you agreed.
-              Ad copy and creative are refreshed monthly so the account
-              never goes stale.
+             A full calendar lands at the start of every month. Posts, stories and reels go out on schedule, comments and messages are answered every working day, and the winning posts get a paid boost where the service includes it.
             </p>
           </div>
 
@@ -376,10 +345,7 @@ Every social tier ships with the essentials.     </h2>
             <h3>You see results</h3>
 
             <p>
-              Every month: what was spent, what it bought and what each
-              lead or order cost, next to the target. Where a campaign
-              is not paying, we say so and move the budget to the one
-              that is.
+          A monthly report on reach, engagement and the enquiries that came through the feed. Which posts worked, which did not, and what next month is built on.
             </p>
           </div>
 
@@ -409,12 +375,10 @@ Every social tier ships with the essentials.     </h2>
         </span>
 
         <h2>
-          What each SEO tier gives you.
-        </h2>
+What each social tier gives you.        </h2>
 
         <p class="seo_fourth_section_intro">
-          Organic growth compounds while everything else is rented.
-        </p>
+A feed that works while you run the business.        </p>
 
         <div class="seo_fourth_section_points">
 
@@ -426,10 +390,9 @@ Every social tier ships with the essentials.     </h2>
               </svg></span>
 
             <div>
-              <h3>Traffic that gets cheaper</h3>
+              <h3>Consistency without the effort</h3>
               <p>
-                Every ranking gained keeps paying without extra spend.
-              </p>
+A brand that shows up daily, without a daily job for you.              </p>
             </div>
           </div>
 
@@ -441,10 +404,9 @@ Every social tier ships with the essentials.     </h2>
               </svg></span>
 
             <div>
-              <h3>Customers with intent</h3>
+              <h3>A voice that stays yours</h3>
               <p>
-                Visitors arrive already searching for what you sell.
-              </p>
+Comments and messages answered as you would answer them.              </p>
             </div>
           </div>
 
@@ -456,10 +418,9 @@ Every social tier ships with the essentials.     </h2>
               </svg></span>
 
             <div>
-              <h3>An asset you own</h3>
+              <h3>Reach you can grow</h3>
               <p>
-                Rankings and content stay yours for the long term.
-              </p>
+Winning content boosted with paid budget, on purpose.              </p>
             </div>
           </div>
 
@@ -533,31 +494,31 @@ Every social tier ships with the essentials.     </h2>
 
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Platforms managed</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Posts per month (written and designed)</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Short-form videos per month (Reels, TikTok)</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>Stories per week</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Comment and DM replies</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -577,7 +538,7 @@ Every social tier ships with the essentials.     </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Paid social ads management (spend paid separately)</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -597,54 +558,10 @@ Every social tier ships with the essentials.     </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Creator and UGC content sourcing</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
-                </tr>
-                <tr>
-                  <td>Digital PR, press releases and news outreach</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
-                </tr>
-                <tr>
-                  <td>Landing page conversion review</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
                 </tr>
               </tbody>
 
@@ -652,36 +569,18 @@ Every social tier ships with the essentials.     </h2>
                 <tr>
                   <td>Price</td>
                   <td>
-                    <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                        viewBox="0 0 16 16" fill="none">
-                        <g opacity="0.35">
-                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                            stroke-linejoin="round" />
-                        </g>
-                      </svg></div>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                    <div class="seo_pricing_price">$1,347</div>
+                    <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Starter</a>
                   </td>
                   <td>
-                    <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                        viewBox="0 0 16 16" fill="none">
-                        <g opacity="0.35">
-                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                            stroke-linejoin="round" />
-                        </g>
-                      </svg></div>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                    <div class="seo_pricing_price">$2,397</div>
+                    <div class="seo_pricing_price_note">$799 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Essential</a>
                   </td>
                   <td>
-                    <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                        viewBox="0 0 16 16" fill="none">
-                        <g opacity="0.35">
-                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                            stroke-linejoin="round" />
-                        </g>
-                      </svg></div>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                    <div class="seo_pricing_price">$3,897</div>
+                    <div class="seo_pricing_price_note">$1,299 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Professional</a>
                   </td>
                 </tr>
@@ -695,12 +594,13 @@ Every social tier ships with the essentials.     </h2>
 
               <div class="seo_price_card">
                 <h3>Starter</h3>
-                <div class="seo_price_amount">Price to be confirmed</div>
+                <div class="seo_price_amount">$1,197</div>
+                <p class="seo_price_note">$399 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>5</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -715,7 +615,7 @@ Every social tier ships with the essentials.     </h2>
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>At onboarding</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -736,12 +636,13 @@ Every social tier ships with the essentials.     </h2>
 
               <div class="seo_price_card">
                 <h3>Essential</h3>
-                <div class="seo_price_amount">Price to be confirmed</div>
+                <div class="seo_price_amount">$2,097</div>
+                <p class="seo_price_note">$699 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>15</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -752,7 +653,7 @@ Every social tier ships with the essentials.     </h2>
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>Quarterly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -773,12 +674,13 @@ Every social tier ships with the essentials.     </h2>
 
               <div class="seo_price_card">
                 <h3>Professional</h3>
-                <div class="seo_price_amount">Price to be confirmed</div>
+                <div class="seo_price_amount">$3,597</div>
+                <p class="seo_price_note">$1,199 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>30</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National and international</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -789,7 +691,7 @@ Every social tier ships with the essentials.     </h2>
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>Monthly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -824,31 +726,31 @@ Every social tier ships with the essentials.     </h2>
 
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Platforms managed</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Posts per month (written and designed)</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Short-form videos per month (Reels, TikTok)</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>Stories per week</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Comment and DM replies</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -868,7 +770,7 @@ Every social tier ships with the essentials.     </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Paid social ads management (spend paid separately)</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -888,73 +790,30 @@ Every social tier ships with the essentials.     </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Creator and UGC content sourcing</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
                 </tr>
-                <tr>
-                  <td>Digital PR, press releases and news outreach</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
-                </tr>
-                <tr>
-                  <td>Landing page conversion review</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
-                </tr>
+            
               </tbody>
 
               <tfoot>
                 <tr>
                   <td>Price</td>
                   <td>
-                    <div class="seo_pricing_price">$1,197</div>
+                    <div class="seo_pricing_price">$1,347</div>
                     <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Starter</a>
                   </td>
                   <td>
-                    <div class="seo_pricing_price">$2,097</div>
-                    <div class="seo_pricing_price_note">$699 per month, 3 month term</div>
+                    <div class="seo_pricing_price">$2,397</div>
+                    <div class="seo_pricing_price_note">$799 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Essential</a>
                   </td>
                   <td>
-                    <div class="seo_pricing_price">$3,597</div>
-                    <div class="seo_pricing_price_note">$1,199 per month, 3 month term</div>
+                    <div class="seo_pricing_price">$3,897</div>
+                    <div class="seo_pricing_price_note">$1,299 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Professional</a>
                   </td>
                 </tr>
@@ -971,10 +830,10 @@ Every social tier ships with the essentials.     </h2>
                 <div class="seo_price_amount">$1,197</div>
                 <p class="seo_price_note">$399 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>5</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -989,7 +848,7 @@ Every social tier ships with the essentials.     </h2>
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>At onboarding</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -1013,10 +872,10 @@ Every social tier ships with the essentials.     </h2>
                 <div class="seo_price_amount">$2,097</div>
                 <p class="seo_price_note">$699 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>15</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -1027,7 +886,7 @@ Every social tier ships with the essentials.     </h2>
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>Quarterly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -1051,10 +910,10 @@ Every social tier ships with the essentials.     </h2>
                 <div class="seo_price_amount">$3,597</div>
                 <p class="seo_price_note">$1,199 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>30</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National and international</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -1065,7 +924,7 @@ Every social tier ships with the essentials.     </h2>
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>Monthly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -1097,33 +956,34 @@ Every social tier ships with the essentials.     </h2>
                   <th>Professional</th>
                 </tr>
               </thead>
+
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Platforms managed</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Posts per month (written and designed)</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Short-form videos per month (Reels, TikTok)</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>Stories per week</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Comment and DM replies</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1143,7 +1003,7 @@ Every social tier ships with the essentials.     </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Paid social ads management (spend paid separately)</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1163,89 +1023,155 @@ Every social tier ships with the essentials.     </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Creator and UGC content sourcing</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
                 </tr>
-                <tr>
-                  <td>Digital PR, press releases and news outreach</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
-                </tr>
-                <tr>
-                  <td>Landing page conversion review</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
-                </tr>
               </tbody>
+
               <tfoot>
                 <tr>
                   <td>Price</td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Starter</a>
+                  <td>
+                    <div class="seo_pricing_price">$1,347</div>
+                    <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Starter</a>
                   </td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Essential</a>
+                  <td>
+                    <div class="seo_pricing_price">$2,397</div>
+                    <div class="seo_pricing_price_note">$799 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Essential</a>
                   </td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Professional</a>
+                  <td>
+                    <div class="seo_pricing_price">$3,897</div>
+                    <div class="seo_pricing_price_note">$1,299 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Professional</a>
                   </td>
                 </tr>
               </tfoot>
             </table>
+          </div>
+
+          <!-- MOBILE CARDS -->
+          <div class="seo_pricing_mobile">
+            <div class="seo_pricing_cards">
+
+              <div class="seo_price_card">
+                <h3>Starter</h3>
+                <div class="seo_price_amount">$1,197</div>
+                <p class="seo_price_note">$399 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Starter</a>
+              </div>
+
+              <div class="seo_price_card">
+                <h3>Essential</h3>
+                <div class="seo_price_amount">$2,097</div>
+                <p class="seo_price_note">$699 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Essential</a>
+              </div>
+
+              <div class="seo_price_card">
+                <h3>Professional</h3>
+                <div class="seo_price_amount">$3,597</div>
+                <p class="seo_price_note">$1,199 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Professional</a>
+              </div>
+
+            </div>
           </div>
         </div>
 
@@ -1262,33 +1188,34 @@ Every social tier ships with the essentials.     </h2>
                   <th>Professional</th>
                 </tr>
               </thead>
+
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Platforms managed</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Posts per month (written and designed)</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Short-form videos per month (Reels, TikTok)</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>Stories per week</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Comment and DM replies</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1308,7 +1235,7 @@ Every social tier ships with the essentials.     </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Paid social ads management (spend paid separately)</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1328,89 +1255,155 @@ Every social tier ships with the essentials.     </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Creator and UGC content sourcing</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
                 </tr>
-                <tr>
-                  <td>Digital PR, press releases and news outreach</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
-                </tr>
-                <tr>
-                  <td>Landing page conversion review</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
-                </tr>
               </tbody>
+
               <tfoot>
                 <tr>
                   <td>Price</td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Starter</a>
+                  <td>
+                    <div class="seo_pricing_price">$1,347</div>
+                    <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Starter</a>
                   </td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Essential</a>
+                  <td>
+                    <div class="seo_pricing_price">$2,397</div>
+                    <div class="seo_pricing_price_note">$799 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Essential</a>
                   </td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Professional</a>
+                  <td>
+                    <div class="seo_pricing_price">$3,897</div>
+                    <div class="seo_pricing_price_note">$1,299 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Professional</a>
                   </td>
                 </tr>
               </tfoot>
             </table>
+          </div>
+
+          <!-- MOBILE CARDS -->
+          <div class="seo_pricing_mobile">
+            <div class="seo_pricing_cards">
+
+              <div class="seo_price_card">
+                <h3>Starter</h3>
+                <div class="seo_price_amount">$1,197</div>
+                <p class="seo_price_note">$399 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Starter</a>
+              </div>
+
+              <div class="seo_price_card">
+                <h3>Essential</h3>
+                <div class="seo_price_amount">$2,097</div>
+                <p class="seo_price_note">$699 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Essential</a>
+              </div>
+
+              <div class="seo_price_card">
+                <h3>Professional</h3>
+                <div class="seo_price_amount">$3,597</div>
+                <p class="seo_price_note">$1,199 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Platforms managed</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Stories per week</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Creator and UGC content sourcing</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Professional</a>
+              </div>
+
+            </div>
           </div>
         </div>
 
