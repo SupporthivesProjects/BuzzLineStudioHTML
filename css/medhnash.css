@@ -1,5 +1,5 @@
 .order-hero {
-  background: #f5edff;
+  background: #FAFAFA;
   padding: 84px 0px 0px 0px;
 }
 
@@ -137,6 +137,10 @@
   text-decoration: none;
 }
 
+.goal-price .mobile-show {
+    display: none;
+  }
+
 .service-card {
   display: flex;
   flex-wrap: wrap;
@@ -151,12 +155,14 @@
 
 .service-top{
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .service-content {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    flex-direction: column;
 }
 
 .service-content div {
@@ -212,8 +218,8 @@
 
 .service-price {
   display: flex;
-      flex-direction: row;
-    justify-content: space-between;
+  flex-direction: column;
+  text-align: right;
 }
 
 .service-card-out {
@@ -378,8 +384,10 @@
 
   .goal-price {
     min-width: 0;
-    align-items: flex-start;
-    text-align: left;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
   }
 
   .service-card {
@@ -425,6 +433,15 @@
   .service-remove {
     align-self: flex-start;
   }
+
+  .dektop-show{
+    display: none;
+  }
+
+  .goal-price .mobile-show {
+    display: flex;
+    gap: 6px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -435,10 +452,6 @@
   .goal-header > div:first-child {
     min-width: 0;
     flex: 1;
-  }
-
-  .goal-price {
-    min-width: 0;
   }
 
   .service-content {
@@ -505,7 +518,7 @@
 
 .checkout-details {
   padding: 104px 0;
-  background: #fff;
+  background: #FAFAFA;
 }
 
 .checkout-layout {
@@ -620,13 +633,6 @@
   font-size: 14px;
 }
 
-.checkout-summary-row > div {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  padding-left: 12px;
-}
-
 .checkout-summary-row strong,
 .checkout-price-row strong {
   flex-shrink: 0;
@@ -661,6 +667,16 @@
 .checkout-month {
   font-size: 14px;
   color: rgba(15, 15, 15, 0.64);
+}
+
+.checkout-last{
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.checkout-last-mobil{
+  display: none;
 }
 
 .checkout-payment{
@@ -776,6 +792,23 @@ height: 54px;
 
   .checkout-payment-button {
     justify-content: center;
+  }
+
+  .checkout-last{
+    display: none;
+  }
+  .checkout-last-mobil{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .checkout-payment-mobile{
+        display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 24px;
+    border-radius: 16px;
+    border: 1px solid rgba(15, 15, 15, 0.12);
   }
 }
 
