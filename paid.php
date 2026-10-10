@@ -14,7 +14,7 @@
 </style>
 
 <section class="seo-section">
-   <div class="container-fluid p-0 seo-inner">
+  <div class="container-fluid p-0 seo-inner">
     <!-- LEFT CONTENT -->
     <div class="seo-content">
       <div class="seo-content__inner">
@@ -22,12 +22,11 @@
         <span class="seo-tag">Services</span>
 
         <h2>
-         Paid Search
+          Paid Search
         </h2>
 
         <p class="seo-description">
-          Technical fixes, content and links, shipped monthly against a plan.
-          Rankings that keep paying after the spend stops.
+          Search and shopping ads built, bid and reported weekly. Spend that is watched, not left running.
         </p>
 
         <div class="seo-features">
@@ -83,33 +82,29 @@
     <div class="seo_second_section_main">
 
       <h2 class="seo_second_section_title">
-Structure, creative and bidding, run as one <br>  account.      </h2>
+        Structure, creative and bidding, run as one <br> account. </h2>
 
       <div class="seo_second_section_items">
 
         <div class="seo_second_section_item">
-          <h3>What SEO means here</h3>
+          <h3>What paid search means here</h3>
           <p>
-            Technical health, content and authority, worked as one
-            programme. We fix what blocks crawl, write what earns
-            rank and build what earns trust.
+            Google and Microsoft search and shopping, structured to scale without waste, with ads written to earn the
+            click.
           </p>
         </div>
 
         <div class="seo_second_section_item">
           <h3>How the programme runs</h3>
           <p>
-            Fixes, content and links ship monthly against a published
-            plan. You always know what went live and what it moved.
+            Bids move weekly as the data lands. Creative rotates monthly. You see cost per order, not vanity clicks.
           </p>
         </div>
 
         <div class="seo_second_section_item">
           <h3>Why it pays for itself</h3>
           <p>
-            Organic traffic is the only channel that gets cheaper as
-            it grows. Every ranking gained keeps paying without another
-            pound of spend.
+            Paid Search reaches people already looking to buy. Every pound is tied to a search with intent behind it.
           </p>
         </div>
 
@@ -132,7 +127,7 @@ Structure, creative and bidding, run as one <br>  account.      </h2>
         </span>
 
         <h2>
-Every paid search tier ships with the essentials.        </h2>
+          Every paid search tier ships with the essentials. </h2>
 
       </div>
 
@@ -149,11 +144,10 @@ Every paid search tier ships with the essentials.        </h2>
             </svg>
           </div>
 
-          <h3>Free setup</h3>
+          <h3>Free setup or account audit</h3>
 
           <p>
-            Everything running from day one, at no extra cost.
-          </p>
+            A new account built, or your current one audited. </p>
         </div>
 
 
@@ -167,33 +161,14 @@ Every paid search tier ships with the essentials.        </h2>
             </svg>
           </div>
 
-          <h3>Keyword and competitor research</h3>
+          <h3>Keyword research</h3>
 
           <p>
-            What your buyers search, and who ranks for it.
-          </p>
+            The searches worth paying for, and the ones to block. </p>
         </div>
 
 
         <!-- CARD 3 -->
-        <div class="seo_essential_card">
-          <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M22 9H2M14 17.5L16.5 15L14 12.5M10 12.5L7.5 15L10 17.5M2 7.8V16.2C2 17.8802 2 18.7202 2.32698 19.362C2.6146 19.9265 3.07354 20.3854 3.63803 20.673C4.27976 21 5.11984 21 6.8 21H17.2C18.8802 21 19.7202 21 20.362 20.673C20.9265 20.3854 21.3854 19.9265 21.673 19.362C22 18.7202 22 17.8802 22 16.2V7.8C22 6.11984 22 5.27977 21.673 4.63803C21.3854 4.07354 20.9265 3.6146 20.362 3.32698C19.7202 3 18.8802 3 17.2 3H6.8C5.11984 3 4.27976 3 3.63803 3.32698C3.07354 3.6146 2.6146 4.07354 2.32698 4.63803C2 5.27976 2 6.11984 2 7.8Z"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
-          </div>
-
-          <h3>Technical and on-page optimisation</h3>
-
-          <p>
-            Crawl blockers fixed and pages tuned to rank.
-          </p>
-        </div>
-
-
-        <!-- CARD 4 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -203,11 +178,27 @@ Every paid search tier ships with the essentials.        </h2>
             </svg>
           </div>
 
-          <h3>Google Business Profile optimisation</h3>
+          <h3>Conversion tracking</h3>
 
           <p>
-            Found properly in local search and Maps.
-          </p>
+            GA4 and Google Tag set up, so every sale is counted. </p>
+        </div>
+
+
+        <!-- CARD 4 -->
+        <div class="seo_essential_card">
+          <div class="seo_essential_icon">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+              <path
+                d="M2.87604 18.1157C2.92198 17.7022 2.94496 17.4955 3.00751 17.3023C3.06301 17.1308 3.14143 16.9677 3.24064 16.8172C3.35245 16.6476 3.49955 16.5006 3.79373 16.2064L17 3.00006C18.1046 1.89549 19.8954 1.89549 21 3.00006C22.1046 4.10463 22.1046 5.89549 21 7.00006L7.79373 20.2064C7.49954 20.5006 7.35245 20.6476 7.18289 20.7595C7.03245 20.8587 6.86929 20.9371 6.69785 20.9926C6.5046 21.0551 6.29786 21.0781 5.88437 21.1241L2.5 21.5001L2.87604 18.1157Z"
+                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </div>
+
+          <h3>Unlimited ad changes</h3>
+
+          <p>
+            New offer or new copy, changed at no charge. </p>
         </div>
 
 
@@ -216,16 +207,15 @@ Every paid search tier ships with the essentials.        </h2>
           <div class="seo_essential_icon">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
               <path
-                d="M21 21H4.6C4.03995 21 3.75992 21 3.54601 20.891C3.35785 20.7951 3.20487 20.6422 3.10899 20.454C3 20.2401 3 19.9601 3 19.4V3M20 8L16.0811 12.1827C15.9326 12.3412 15.8584 12.4204 15.7688 12.4614C15.6897 12.4976 15.6026 12.5125 15.516 12.5047C15.4179 12.4958 15.3215 12.4458 15.1287 12.3457L11.8713 10.6543C11.6785 10.5542 11.5821 10.5042 11.484 10.4953C11.3974 10.4875 11.3103 10.5024 11.2312 10.5386C11.1416 10.5796 11.0674 10.6588 10.9189 10.8173L7 15"
+                d="M8.5 14.6667C8.5 15.9553 9.54467 17 10.8333 17H13C14.3807 17 15.5 15.8807 15.5 14.5C15.5 13.1193 14.3807 12 13 12H11C9.61929 12 8.5 10.8807 8.5 9.5C8.5 8.11929 9.61929 7 11 7H13.1667C14.4553 7 15.5 8.04467 15.5 9.33333M12 5.5V7M12 17V18.5M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z"
                 stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
             </svg>
           </div>
 
-          <h3>Daily rank tracking</h3>
+          <h3>Top up your ad budget any time</h3>
 
           <p>
-            Every target keyword checked, every day.
-          </p>
+            Scale spend up the moment the numbers say so. </p>
         </div>
 
 
@@ -411,12 +401,10 @@ Every paid search tier ships with the essentials.        </h2>
         </span>
 
         <h2>
-          What each SEO tier gives you.
-        </h2>
+          What each paid search tier gives you. </h2>
 
         <p class="seo_fourth_section_intro">
-          Organic growth compounds while everything else is rented.
-        </p>
+          Traffic you can turn up and down, tied to a number you can see. </p>
 
         <div class="seo_fourth_section_points">
 
@@ -428,10 +416,9 @@ Every paid search tier ships with the essentials.        </h2>
               </svg></span>
 
             <div>
-              <h3>Traffic that gets cheaper</h3>
+              <h3>Intent you can buy</h3>
               <p>
-                Every ranking gained keeps paying without extra spend.
-              </p>
+                Reach people the moment they search for what you sell. </p>
             </div>
           </div>
 
@@ -443,10 +430,9 @@ Every paid search tier ships with the essentials.        </h2>
               </svg></span>
 
             <div>
-              <h3>Customers with intent</h3>
+              <h3>Spend that is watched</h3>
               <p>
-                Visitors arrive already searching for what you sell.
-              </p>
+                Weekly bidding means budget never drifts. </p>
             </div>
           </div>
 
@@ -458,10 +444,9 @@ Every paid search tier ships with the essentials.        </h2>
               </svg></span>
 
             <div>
-              <h3>An asset you own</h3>
+              <h3>A number you can trust</h3>
               <p>
-                Rankings and content stay yours for the long term.
-              </p>
+                Cost per order reported plainly, every month. </p>
             </div>
           </div>
 
@@ -535,31 +520,31 @@ Every paid search tier ships with the essentials.        </h2>
 
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Ad spend included per month</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Ad platforms</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Campaigns managed</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>Campaigns Campaigns managed</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Ad A/B tests per month</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -579,7 +564,7 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Display and remarketing ads (designed for you)</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -599,32 +584,10 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Competitor ad and keyword tracking</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
-                </tr>
-                <tr>
-                  <td>Digital PR, press releases and news outreach</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
                 </tr>
                 <tr>
                   <td>Landing page conversion review</td>
@@ -654,36 +617,18 @@ Every paid search tier ships with the essentials.        </h2>
                 <tr>
                   <td>Price</td>
                   <td>
-                    <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                        viewBox="0 0 16 16" fill="none">
-                        <g opacity="0.35">
-                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                            stroke-linejoin="round" />
-                        </g>
-                      </svg></div>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                    <div class="seo_pricing_price">$1,347</div>
+                    <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Starter</a>
                   </td>
                   <td>
-                    <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                        viewBox="0 0 16 16" fill="none">
-                        <g opacity="0.35">
-                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                            stroke-linejoin="round" />
-                        </g>
-                      </svg></div>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                    <div class="seo_pricing_price">$2,397</div>
+                    <div class="seo_pricing_price_note">$799 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Essential</a>
                   </td>
                   <td>
-                    <div class="seo_pricing_price"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                        viewBox="0 0 16 16" fill="none">
-                        <g opacity="0.35">
-                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                            stroke-linejoin="round" />
-                        </g>
-                      </svg></div>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div>
+                    <div class="seo_pricing_price">$3,897</div>
+                    <div class="seo_pricing_price_note">$1,299 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Professional</a>
                   </td>
                 </tr>
@@ -697,12 +642,13 @@ Every paid search tier ships with the essentials.        </h2>
 
               <div class="seo_price_card">
                 <h3>Starter</h3>
-                <div class="seo_price_amount">Price to be confirmed</div>
+                <div class="seo_price_amount">$1,197</div>
+                <p class="seo_price_note">$399 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>5</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -717,7 +663,7 @@ Every paid search tier ships with the essentials.        </h2>
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>At onboarding</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -738,12 +684,13 @@ Every paid search tier ships with the essentials.        </h2>
 
               <div class="seo_price_card">
                 <h3>Essential</h3>
-                <div class="seo_price_amount">Price to be confirmed</div>
+                <div class="seo_price_amount">$2,097</div>
+                <p class="seo_price_note">$699 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>15</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -754,7 +701,7 @@ Every paid search tier ships with the essentials.        </h2>
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>Quarterly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -775,12 +722,13 @@ Every paid search tier ships with the essentials.        </h2>
 
               <div class="seo_price_card">
                 <h3>Professional</h3>
-                <div class="seo_price_amount">Price to be confirmed</div>
+                <div class="seo_price_amount">$3,597</div>
+                <p class="seo_price_note">$1,199 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>30</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National and international</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -791,7 +739,7 @@ Every paid search tier ships with the essentials.        </h2>
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>Monthly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -826,31 +774,31 @@ Every paid search tier ships with the essentials.        </h2>
 
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Ad spend included per month</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Ad platforms</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Campaigns managed</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>Campaigns Campaigns managed</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Ad A/B tests per month</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -870,7 +818,7 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Display and remarketing ads (designed for you)</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -890,32 +838,10 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Competitor ad and keyword tracking</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
-                </tr>
-                <tr>
-                  <td>Digital PR, press releases and news outreach</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
                 </tr>
                 <tr>
                   <td>Landing page conversion review</td>
@@ -945,18 +871,18 @@ Every paid search tier ships with the essentials.        </h2>
                 <tr>
                   <td>Price</td>
                   <td>
-                    <div class="seo_pricing_price">$1,197</div>
+                    <div class="seo_pricing_price">$1,347</div>
                     <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Starter</a>
                   </td>
                   <td>
-                    <div class="seo_pricing_price">$2,097</div>
-                    <div class="seo_pricing_price_note">$699 per month, 3 month term</div>
+                    <div class="seo_pricing_price">$2,397</div>
+                    <div class="seo_pricing_price_note">$799 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Essential</a>
                   </td>
                   <td>
-                    <div class="seo_pricing_price">$3,597</div>
-                    <div class="seo_pricing_price_note">$1,199 per month, 3 month term</div>
+                    <div class="seo_pricing_price">$3,897</div>
+                    <div class="seo_pricing_price_note">$1,299 per month, 3 month term</div>
                     <a href="#" class="seo_price_btn">Start with Professional</a>
                   </td>
                 </tr>
@@ -973,10 +899,10 @@ Every paid search tier ships with the essentials.        </h2>
                 <div class="seo_price_amount">$1,197</div>
                 <p class="seo_price_note">$399 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>5</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -991,7 +917,7 @@ Every paid search tier ships with the essentials.        </h2>
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>At onboarding</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -1015,10 +941,10 @@ Every paid search tier ships with the essentials.        </h2>
                 <div class="seo_price_amount">$2,097</div>
                 <p class="seo_price_note">$699 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>15</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -1029,7 +955,7 @@ Every paid search tier ships with the essentials.        </h2>
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>Quarterly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -1053,10 +979,10 @@ Every paid search tier ships with the essentials.        </h2>
                 <div class="seo_price_amount">$3,597</div>
                 <p class="seo_price_note">$1,199 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>30</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National and international</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -1067,7 +993,7 @@ Every paid search tier ships with the essentials.        </h2>
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>Monthly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -1099,33 +1025,34 @@ Every paid search tier ships with the essentials.        </h2>
                   <th>Professional</th>
                 </tr>
               </thead>
+
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Ad spend included per month</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Ad platforms</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Campaigns managed</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>Campaigns Campaigns managed</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Ad A/B tests per month</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1145,7 +1072,7 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Display and remarketing ads (designed for you)</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1165,32 +1092,10 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Competitor ad and keyword tracking</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
-                </tr>
-                <tr>
-                  <td>Digital PR, press releases and news outreach</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
                 </tr>
                 <tr>
                   <td>Landing page conversion review</td>
@@ -1215,39 +1120,149 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
               </tbody>
+
               <tfoot>
                 <tr>
                   <td>Price</td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Starter</a>
+                  <td>
+                    <div class="seo_pricing_price">$1,347</div>
+                    <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Starter</a>
                   </td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Essential</a>
+                  <td>
+                    <div class="seo_pricing_price">$2,397</div>
+                    <div class="seo_pricing_price_note">$799 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Essential</a>
                   </td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Professional</a>
+                  <td>
+                    <div class="seo_pricing_price">$3,897</div>
+                    <div class="seo_pricing_price_note">$1,299 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Professional</a>
                   </td>
                 </tr>
               </tfoot>
             </table>
+          </div>
+
+          <!-- MOBILE CARDS -->
+          <div class="seo_pricing_mobile">
+            <div class="seo_pricing_cards">
+
+              <div class="seo_price_card">
+                <h3>Starter</h3>
+                <div class="seo_price_amount">$1,197</div>
+                <p class="seo_price_note">$399 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Starter</a>
+              </div>
+
+              <div class="seo_price_card">
+                <h3>Essential</h3>
+                <div class="seo_price_amount">$2,097</div>
+                <p class="seo_price_note">$699 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Essential</a>
+              </div>
+
+              <div class="seo_price_card">
+                <h3>Professional</h3>
+                <div class="seo_price_amount">$3,597</div>
+                <p class="seo_price_note">$1,199 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Professional</a>
+              </div>
+
+            </div>
           </div>
         </div>
 
@@ -1264,33 +1279,34 @@ Every paid search tier ships with the essentials.        </h2>
                   <th>Professional</th>
                 </tr>
               </thead>
+
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Ad spend included per month</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Ad platforms</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Campaigns managed</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>Campaigns Campaigns managed</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Ad A/B tests per month</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1310,7 +1326,7 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Display and remarketing ads (designed for you)</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1330,32 +1346,10 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Competitor ad and keyword tracking</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
-                </tr>
-                <tr>
-                  <td>Digital PR, press releases and news outreach</td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg></td>
-                  <td class="seo_check"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                      viewBox="0 0 16 16" fill="none">
-                      <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
-                        stroke-linecap="round" stroke-linejoin="round" />
-                    </svg></td>
                 </tr>
                 <tr>
                   <td>Landing page conversion review</td>
@@ -1380,39 +1374,149 @@ Every paid search tier ships with the essentials.        </h2>
                     </svg></td>
                 </tr>
               </tbody>
+
               <tfoot>
                 <tr>
                   <td>Price</td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Starter</a>
+                  <td>
+                    <div class="seo_pricing_price">$1,347</div>
+                    <div class="seo_pricing_price_note">$399 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Starter</a>
                   </td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Essential</a>
+                  <td>
+                    <div class="seo_pricing_price">$2,397</div>
+                    <div class="seo_pricing_price_note">$799 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Essential</a>
                   </td>
-                  <td><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                      <g opacity="0.35">
-                        <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                          stroke-linejoin="round" />
-                      </g>
-                    </svg>
-                    <div class="seo_pricing_price_note">Pricing to be confirmed</div><a href="#"
-                      class="seo_price_btn">Start with Professional</a>
+                  <td>
+                    <div class="seo_pricing_price">$3,897</div>
+                    <div class="seo_pricing_price_note">$1,299 per month, 3 month term</div>
+                    <a href="#" class="seo_price_btn">Start with Professional</a>
                   </td>
                 </tr>
               </tfoot>
             </table>
+          </div>
+
+          <!-- MOBILE CARDS -->
+          <div class="seo_pricing_mobile">
+            <div class="seo_pricing_cards">
+
+              <div class="seo_price_card">
+                <h3>Starter</h3>
+                <div class="seo_price_amount">$1,197</div>
+                <p class="seo_price_note">$399 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Starter</a>
+              </div>
+
+              <div class="seo_price_card">
+                <h3>Essential</h3>
+                <div class="seo_price_amount">$2,097</div>
+                <p class="seo_price_note">$699 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <g opacity="0.35">
+                          <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        </g>
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Essential</a>
+              </div>
+
+              <div class="seo_price_card">
+                <h3>Professional</h3>
+                <div class="seo_price_amount">$3,597</div>
+                <p class="seo_price_note">$1,199 per month, 3 month term</p>
+                <div class="seo_price_features">
+                  <div class="seo_price_feature"><span>Ad spend included per month</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
+                  <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Campaigns Campaigns managed</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Schema and Core Web Vitals</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Competitor ad and keyword tracking</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_check"><svg
+                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
+                          stroke-linecap="round" stroke-linejoin="round" />
+                      </svg></span></div>
+                </div>
+                <a href="#" class="seo_price_btn">Start with Professional</a>
+              </div>
+
+            </div>
           </div>
         </div>
 

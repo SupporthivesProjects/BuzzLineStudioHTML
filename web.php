@@ -85,28 +85,23 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
       <div class="seo_second_section_items">
 
         <div class="seo_second_section_item">
-          <h3>What SEO means here</h3>
+          <h3>What website design and dev means here</h3>
           <p>
-            Technical health, content and authority, worked as one
-            programme. We fix what blocks crawl, write what earns
-            rank and build what earns trust.
+          Pages designed and built for the moment a visitor decides. Landing pages, product pages and the site around them, on a CMS you can edit.
           </p>
         </div>
 
         <div class="seo_second_section_item">
           <h3>How the programme runs</h3>
           <p>
-            Fixes, content and links ship monthly against a published
-            plan. You always know what went live and what it moved.
+        A build plan lands at the start of the month. Every page is designed, built, tested and published on schedule.
           </p>
         </div>
 
         <div class="seo_second_section_item">
           <h3>Why it pays for itself</h3>
           <p>
-            Organic traffic is the only channel that gets cheaper as
-            it grows. Every ranking gained keeps paying without another
-            pound of spend.
+            Every other channel sends people to your site. A page that converts makes all of them cheaper.
           </p>
         </div>
 
@@ -129,7 +124,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
         </span>
 
         <h2>
-          Every social tier ships with the essentials. </h2>
+         Every website tier ships with the essentials. </h2>
 
       </div>
 
@@ -139,142 +134,120 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
         <!-- CARD 1 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M13.0009 2L4.0943 12.6879C3.74549 13.1064 3.57109 13.3157 3.56842 13.4925C3.5661 13.6461 3.63458 13.7923 3.7541 13.8889C3.89159 14 4.16402 14 4.70888 14H12.0009L11.0009 22L19.9074 11.3121C20.2562 10.8936 20.4306 10.6843 20.4333 10.5075C20.4356 10.3539 20.3672 10.2077 20.2476 10.1111C20.1101 10 19.8377 10 19.2929 10H12.0009L13.0009 2Z"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M2 12H22M2 12C2 17.5228 6.47715 22 12 22M2 12C2 6.47715 6.47715 2 12 2M22 12C22 17.5228 17.5228 22 12 22M22 12C22 6.47715 17.5228 2 12 2M12 22C14.5013 19.2616 15.9228 15.708 16 12C15.9228 8.29203 14.5013 4.73835 12 2M12 22C9.49872 19.2616 8.07725 15.708 8 12C8.07725 8.29203 9.49872 4.73835 12 2" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Free setup</h3>
+          <h3>Custom domain and SSL</h3>
 
           <p>
-            Everything running from day one, at no extra cost.
-          </p>
+Your own address, secured from day one.          </p>
         </div>
 
 
         <!-- CARD 2 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M21 21L16.65 16.65M19 11C19 15.4183 15.4183 19 11 19C6.58172 19 3 15.4183 3 11C3 6.58172 6.58172 3 11 3C15.4183 3 19 6.58172 19 11Z"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M3 12H21M12 3V21M7.8 3H16.2C17.8802 3 18.7202 3 19.362 3.32698C19.9265 3.6146 20.3854 4.07354 20.673 4.63803C21 5.27976 21 6.11984 21 7.8V16.2C21 17.8802 21 18.7202 20.673 19.362C20.3854 19.9265 19.9265 20.3854 19.362 20.673C18.7202 21 17.8802 21 16.2 21H7.8C6.11984 21 5.27976 21 4.63803 20.673C4.07354 20.3854 3.6146 19.9265 3.32698 19.362C3 18.7202 3 17.8802 3 16.2V7.8C3 6.11984 3 5.27976 3.32698 4.63803C3.6146 4.07354 4.07354 3.6146 4.63803 3.32698C5.27976 3 6.11984 3 7.8 3Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Keyword and competitor research</h3>
+          <h3>Mobile-first responsive design</h3>
 
           <p>
-            What your buyers search, and who ranks for it.
-          </p>
+Designed for the phone first, then scaled up.          </p>
         </div>
 
 
         <!-- CARD 3 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M22 9H2M14 17.5L16.5 15L14 12.5M10 12.5L7.5 15L10 17.5M2 7.8V16.2C2 17.8802 2 18.7202 2.32698 19.362C2.6146 19.9265 3.07354 20.3854 3.63803 20.673C4.27976 21 5.11984 21 6.8 21H17.2C18.8802 21 19.7202 21 20.362 20.673C20.9265 20.3854 21.3854 19.9265 21.673 19.362C22 18.7202 22 17.8802 22 16.2V7.8C22 6.11984 22 5.27977 21.673 4.63803C21.3854 4.07354 20.9265 3.6146 20.362 3.32698C19.7202 3 18.8802 3 17.2 3H6.8C5.11984 3 4.27976 3 3.63803 3.32698C3.07354 3.6146 2.6146 4.07354 2.32698 4.63803C2 5.27976 2 6.11984 2 7.8Z"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M21 21L16.65 16.65M19 11C19 15.4183 15.4183 19 11 19C6.58172 19 3 15.4183 3 11C3 6.58172 6.58172 3 11 3C15.4183 3 19 6.58172 19 11Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Technical and on-page optimisation</h3>
+          <h3>On-page SEO setup</h3>
 
           <p>
-            Crawl blockers fixed and pages tuned to rank.
-          </p>
+Titles, meta and structure ready for search.          </p>
         </div>
 
 
         <!-- CARD 4 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M22 12C22 17.5228 17.5228 22 12 22M22 12C22 6.47715 17.5228 2 12 2M22 12H18M12 22C6.47715 22 2 17.5228 2 12M12 22V18M12 2C6.47715 2 2 6.47715 2 12M12 2V6M2 12H6"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M21 21H4.6C4.03995 21 3.75992 21 3.54601 20.891C3.35785 20.7951 3.20487 20.6422 3.10899 20.454C3 20.2401 3 19.9601 3 19.4V3M20 8L16.0811 12.1827C15.9326 12.3412 15.8584 12.4204 15.7688 12.4614C15.6897 12.4976 15.6026 12.5125 15.516 12.5047C15.4179 12.4958 15.3215 12.4458 15.1287 12.3457L11.8713 10.6543C11.6785 10.5542 11.5821 10.5042 11.484 10.4953C11.3974 10.4875 11.3103 10.5024 11.2312 10.5386C11.1416 10.5796 11.0674 10.6588 10.9189 10.8173L7 15" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Google Business Profile optimisation</h3>
+          <h3>GA4 and cookie consent banner</h3>
 
           <p>
-            Found properly in local search and Maps.
-          </p>
+Tracking that works and keeps you compliant.          </p>
         </div>
 
 
         <!-- CARD 5 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M21 21H4.6C4.03995 21 3.75992 21 3.54601 20.891C3.35785 20.7951 3.20487 20.6422 3.10899 20.454C3 20.2401 3 19.9601 3 19.4V3M20 8L16.0811 12.1827C15.9326 12.3412 15.8584 12.4204 15.7688 12.4614C15.6897 12.4976 15.6026 12.5125 15.516 12.5047C15.4179 12.4958 15.3215 12.4458 15.1287 12.3457L11.8713 10.6543C11.6785 10.5542 11.5821 10.5042 11.484 10.4953C11.3974 10.4875 11.3103 10.5024 11.2312 10.5386C11.1416 10.5796 11.0674 10.6588 10.9189 10.8173L7 15"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M2 7L10.1649 12.7154C10.8261 13.1783 11.1567 13.4097 11.5163 13.4993C11.8339 13.5785 12.1661 13.5785 12.4837 13.4993C12.8433 13.4097 13.1739 13.1783 13.8351 12.7154L22 7M6.8 20H17.2C18.8802 20 19.7202 20 20.362 19.673C20.9265 19.3854 21.3854 18.9265 21.673 18.362C22 17.7202 22 16.8802 22 15.2V8.8C22 7.11984 22 6.27976 21.673 5.63803C21.3854 5.07354 20.9265 4.6146 20.362 4.32698C19.7202 4 18.8802 4 17.2 4H6.8C5.11984 4 4.27976 4 3.63803 4.32698C3.07354 4.6146 2.6146 5.07354 2.32698 5.63803C2 6.27976 2 7.11984 2 8.8V15.2C2 16.8802 2 17.7202 2.32698 18.362C2.6146 18.9265 3.07354 19.3854 3.63803 19.673C4.27976 20 5.11984 20 6.8 20Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Daily rank tracking</h3>
+          <h3>Contact forms</h3>
 
           <p>
-            Every target keyword checked, every day.
-          </p>
+Enquiries routed straight to your inbox.          </p>
         </div>
 
 
         <!-- CARD 6 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path d="M18 20V10M12 20V4M6 20V14" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                stroke-linejoin="round" />
-            </svg>
+         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M17 20H16.8C15.1198 20 14.2798 20 13.638 19.673C13.0735 19.3854 12.6146 18.9265 12.327 18.362C12 17.7202 12 16.8802 12 15.2V8.8C12 7.11984 12 6.27976 12.327 5.63803C12.6146 5.07354 13.0735 4.6146 13.638 4.32698C14.2798 4 15.1198 4 16.8 4H17M17 20C17 21.1046 17.8954 22 19 22C20.1046 22 21 21.1046 21 20C21 18.8954 20.1046 18 19 18C17.8954 18 17 18.8954 17 20ZM17 4C17 5.10457 17.8954 6 19 6C20.1046 6 21 5.10457 21 4C21 2.89543 20.1046 2 19 2C17.8954 2 17 2.89543 17 4ZM7 12H17M7 12C7 13.1046 6.10457 14 5 14C3.89543 14 3 13.1046 3 12C3 10.8954 3.89543 10 5 10C6.10457 10 7 10.8954 7 12ZM17 12C17 13.1046 17.8954 14 19 14C20.1046 14 21 13.1046 21 12C21 10.8954 20.1046 10 19 10C17.8954 10 17 10.8954 17 12Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Monthly report</h3>
+          <h3>Hosting setup</h3>
 
           <p>
-            What moved, why, and what comes next.
-          </p>
+Live on fast, reliable hosting, set up for you.          </p>
         </div>
 
 
         <!-- CARD 7 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path
-                d="M20.9986 11.5C20.9986 16.1944 17.193 20 12.4986 20C11.4218 20 10.3918 19.7998 9.44381 19.4345C9.27048 19.3678 9.18381 19.3344 9.11489 19.3185C9.0471 19.3029 8.99803 19.2963 8.92852 19.2937C8.85784 19.291 8.7803 19.299 8.62522 19.315L3.5042 19.8444C3.01595 19.8948 2.77183 19.9201 2.62783 19.8322C2.5024 19.7557 2.41697 19.6279 2.39423 19.4828C2.36812 19.3161 2.48478 19.1002 2.71809 18.6684L4.35375 15.6408C4.48845 15.3915 4.5558 15.2668 4.58631 15.1469C4.61643 15.0286 4.62372 14.9432 4.61408 14.8214C4.60432 14.6981 4.55022 14.5376 4.44203 14.2166C4.1545 13.3636 3.99865 12.45 3.99865 11.5C3.99865 6.80558 7.80423 3 12.4986 3C17.193 3 20.9986 6.80558 20.9986 11.5Z"
-                stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16" fill="none">
+  <path d="M18.875 7.875H6.875M18.875 1.875H6.875M18.875 13.875H6.875M2.875 7.875C2.875 8.4273 2.42728 8.875 1.875 8.875C1.32272 8.875 0.875 8.4273 0.875 7.875C0.875 7.3227 1.32272 6.875 1.875 6.875C2.42728 6.875 2.875 7.3227 2.875 7.875ZM2.875 1.875C2.875 2.42728 2.42728 2.875 1.875 2.875C1.32272 2.875 0.875 2.42728 0.875 1.875C0.875 1.32272 1.32272 0.875 1.875 0.875C2.42728 0.875 2.875 1.32272 2.875 1.875ZM2.875 13.875C2.875 14.4273 2.42728 14.875 1.875 14.875C1.32272 14.875 0.875 14.4273 0.875 13.875C0.875 13.3227 1.32272 12.875 1.875 12.875C2.42728 12.875 2.875 13.3227 2.875 13.875Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>Support 7 days a week</h3>
+          <h3>Handover training</h3>
 
           <p>
-            A real person, every day of the week.
-          </p>
+A walkthrough so you can run it yourself.          </p>
         </div>
 
 
         <!-- CARD 8 -->
         <div class="seo_essential_card">
           <div class="seo_essential_icon">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-              <path d="M20 6L9 17L4 12" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
-                stroke-linejoin="round" />
-            </svg>
+           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <path d="M20.9986 11.5C20.9986 16.1944 17.193 20 12.4986 20C11.4218 20 10.3918 19.7998 9.44381 19.4345C9.27048 19.3678 9.18381 19.3344 9.11489 19.3185C9.0471 19.3029 8.99803 19.2963 8.92852 19.2937C8.85784 19.291 8.7803 19.299 8.62522 19.315L3.5042 19.8444C3.01595 19.8948 2.77183 19.9201 2.62783 19.8322C2.5024 19.7557 2.41697 19.6279 2.39423 19.4828C2.36812 19.3161 2.48478 19.1002 2.71809 18.6684L4.35375 15.6408C4.48845 15.3915 4.5558 15.2668 4.58631 15.1469C4.61643 15.0286 4.62372 14.9432 4.61408 14.8214C4.60432 14.6981 4.55022 14.5376 4.44203 14.2166C4.1545 13.3636 3.99865 12.45 3.99865 11.5C3.99865 6.80558 7.80423 3 12.4986 3C17.193 3 20.9986 6.80558 20.9986 11.5Z" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
           </div>
 
-          <h3>No contract, cancel anytime</h3>
+          <h3>Support 7 days a week</h3>
 
           <p>
-            Stay because it works, not because you are tied in.
-          </p>
+A real person, every day of the week.          </p>
         </div>
 
       </div>
@@ -313,8 +286,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
         </h2>
 
         <p class="seo_third_section_description">
-          You always know where the budget went, what it bought and what
-          we are changing. Spend that is watched every week, not left running.
+        You always know which pages are being built, when they go live and what they did. A site that keeps improving instead of getting rebuilt every three years.
         </p>
 
       </div>
@@ -333,10 +305,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
             <h3>We talk</h3>
 
             <p>
-              One call to agree what a lead or an order is worth to you
-              and how much you are willing to pay for one. From that we
-              set the budget, the forms and the searches to bid on, and
-              we write the first ads with you.
+        One call on your customers, your brand and the pages that carry the most weight: the landing pages, the product pages, the page people see first. We agree the build order and the design direction before anything is drawn.
             </p>
           </div>
 
@@ -354,10 +323,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
             <h3>We ship</h3>
 
             <p>
-              Campaigns go live within the first week. Bids and negatives
-              are adjusted every week against the target cost you agreed.
-              Ad copy and creative are refreshed monthly so the account
-              never goes stale.
+           Each month a set of pages is designed, built on your CMS, tested on real devices and published. You review the design before build and you can edit the copy and images yourself once it is live.
             </p>
           </div>
 
@@ -375,10 +341,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
             <h3>You see results</h3>
 
             <p>
-              Every month: what was spent, what it bought and what each
-              lead or order cost, next to the target. Where a campaign
-              is not paying, we say so and move the budget to the one
-              that is.
+             A monthly report per page: visits, conversions and load speed, before and after. Pages that are not converting get a second pass, not a shrug.
             </p>
           </div>
 
@@ -408,12 +371,10 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
         </span>
 
         <h2>
-          What each SEO tier gives you.
-        </h2>
+What each website tier gives you.        </h2>
 
         <p class="seo_fourth_section_intro">
-          Organic growth compounds while everything else is rented.
-        </p>
+The place every other channel sends people.        </p>
 
         <div class="seo_fourth_section_points">
 
@@ -425,10 +386,9 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
               </svg></span>
 
             <div>
-              <h3>Traffic that gets cheaper</h3>
+              <h3>Pages that convert</h3>
               <p>
-                Every ranking gained keeps paying without extra spend.
-              </p>
+Built around the decision, not around a template.              </p>
             </div>
           </div>
 
@@ -440,10 +400,9 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
               </svg></span>
 
             <div>
-              <h3>Customers with intent</h3>
+              <h3>A site you can run</h3>
               <p>
-                Visitors arrive already searching for what you sell.
-              </p>
+Edit copy and images yourself. No developer on call.              </p>
             </div>
           </div>
 
@@ -455,10 +414,9 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
               </svg></span>
 
             <div>
-              <h3>An asset you own</h3>
+              <h3>Fast and found</h3>
               <p>
-                Rankings and content stay yours for the long term.
-              </p>
+Speed, accessibility and structure that search engines reward.              </p>
             </div>
           </div>
 
@@ -532,31 +490,31 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
 
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Build</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Pages designed and built</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Design revision rounds</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>E-commerce store</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Copywriting</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -576,7 +534,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Branded email addresses</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -596,13 +554,13 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Accessibility (WCAG 2.2 AA)</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
                 </tr>
                 <tr>
-                  <td>Digital PR, press releases and news outreach</td>
+                  <td>Delivery time</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -624,7 +582,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Landing page conversion review</td>
+                  <td>Aftercare and maintenance included</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -696,10 +654,10 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                 <h3>Starter</h3>
                 <div class="seo_price_amount">Price to be confirmed</div>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Build</span><span>5</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>E-commerce store</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -714,7 +672,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Accessibility (WCAG 2.2 AA)</span><span>At onboarding</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -722,7 +680,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                  <div class="seo_price_feature"><span>Aftercare and maintenance included</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
                           <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
@@ -737,10 +695,10 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                 <h3>Essential</h3>
                 <div class="seo_price_amount">Price to be confirmed</div>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Build</span><span>15</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>E-commerce store</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -751,7 +709,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Accessibility (WCAG 2.2 AA)</span><span>Quarterly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -759,7 +717,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                  <div class="seo_price_feature"><span>Aftercare and maintenance included</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
                           <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
@@ -774,10 +732,10 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                 <h3>Professional</h3>
                 <div class="seo_price_amount">Price to be confirmed</div>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Build</span><span>30</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>E-commerce store</span><span>National and international</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -788,13 +746,13 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Accessibility (WCAG 2.2 AA)</span><span>Monthly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_check"><svg
+                  <div class="seo_price_feature"><span>Aftercare and maintenance included</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
@@ -823,31 +781,31 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
 
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Build</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Pages designed and built</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Design revision rounds</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>E-commerce store</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Copywriting</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -867,7 +825,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Branded email addresses</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -887,13 +845,13 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Accessibility (WCAG 2.2 AA)</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
                 </tr>
                 <tr>
-                  <td>Digital PR, press releases and news outreach</td>
+                  <td>Delivery time</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -915,7 +873,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Landing page conversion review</td>
+                  <td>Aftercare and maintenance included</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -970,10 +928,10 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                 <div class="seo_price_amount">$1,197</div>
                 <p class="seo_price_note">$399 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>5</span></div>
+                  <div class="seo_price_feature"><span>Build</span><span>5</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>1</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>3</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>E-commerce store</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -988,7 +946,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>At onboarding</span></div>
+                  <div class="seo_price_feature"><span>Accessibility (WCAG 2.2 AA)</span><span>At onboarding</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -996,7 +954,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                  <div class="seo_price_feature"><span>Aftercare and maintenance included</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
                           <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
@@ -1012,10 +970,10 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                 <div class="seo_price_amount">$2,097</div>
                 <p class="seo_price_note">$699 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>15</span></div>
+                  <div class="seo_price_feature"><span>Build</span><span>15</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>2</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>8</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National</span></div>
+                  <div class="seo_price_feature"><span>E-commerce store</span><span>National</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -1026,7 +984,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Quarterly</span></div>
+                  <div class="seo_price_feature"><span>Accessibility (WCAG 2.2 AA)</span><span>Quarterly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
@@ -1034,7 +992,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                             stroke-linejoin="round" />
                         </g>
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_dash"><svg
+                  <div class="seo_price_feature"><span>Aftercare and maintenance included</span><span class="seo_dash"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <g opacity="0.35">
                           <path d="M3.33398 8H12.6673" stroke="#6A2BF0" stroke-width="1.75" stroke-linecap="round"
@@ -1050,10 +1008,10 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                 <div class="seo_price_amount">$3,597</div>
                 <p class="seo_price_note">$1,199 per month, 3 month term</p>
                 <div class="seo_price_features">
-                  <div class="seo_price_feature"><span>Keywords and phrases targeted</span><span>30</span></div>
+                  <div class="seo_price_feature"><span>Build</span><span>30</span></div>
                   <div class="seo_price_feature"><span>Blog posts per month</span><span>4</span></div>
                   <div class="seo_price_feature"><span>Quality links per month</span><span>15</span></div>
-                  <div class="seo_price_feature"><span>Coverage</span><span>National and international</span></div>
+                  <div class="seo_price_feature"><span>E-commerce store</span><span>National and international</span></div>
                   <div class="seo_price_feature"><span>AI search visibility</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
@@ -1064,13 +1022,13 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Full SEO audit</span><span>Monthly</span></div>
+                  <div class="seo_price_feature"><span>Accessibility (WCAG 2.2 AA)</span><span>Monthly</span></div>
                   <div class="seo_price_feature"><span>Digital PR and outreach</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
                       </svg></span></div>
-                  <div class="seo_price_feature"><span>Landing page conversion review</span><span class="seo_check"><svg
+                  <div class="seo_price_feature"><span>Aftercare and maintenance included</span><span class="seo_check"><svg
                         xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
                         <path d="M13.3327 4L5.99935 11.3333L2.66602 8" stroke="#6A2BF0" stroke-width="1.75"
                           stroke-linecap="round" stroke-linejoin="round" />
@@ -1098,31 +1056,31 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
               </thead>
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Build</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Pages designed and built</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Design revision rounds</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>E-commerce store</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Copywriting</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1142,7 +1100,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Branded email addresses</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1162,13 +1120,13 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Accessibility (WCAG 2.2 AA)</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
                 </tr>
                 <tr>
-                  <td>Digital PR, press releases and news outreach</td>
+                  <td>Delivery time</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1190,7 +1148,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Landing page conversion review</td>
+                  <td>Aftercare and maintenance included</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1263,31 +1221,31 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
               </thead>
               <tbody>
                 <tr>
-                  <td>Keywords and phrases targeted</td>
+                  <td>Build</td>
                   <td>5</td>
                   <td>15</td>
                   <td>30</td>
                 </tr>
                 <tr>
-                  <td>Blog posts written and optimised per month</td>
+                  <td>Pages designed and built</td>
                   <td>1</td>
                   <td>2</td>
                   <td>4</td>
                 </tr>
                 <tr>
-                  <td>Quality links built per month</td>
+                  <td>Design revision rounds</td>
                   <td>3</td>
                   <td>8</td>
                   <td>15</td>
                 </tr>
                 <tr>
-                  <td>Coverage</td>
+                  <td>E-commerce store</td>
                   <td>National</td>
                   <td>National</td>
                   <td>National and international</td>
                 </tr>
                 <tr>
-                  <td>AI search visibility (ChatGPT, Google AI Overviews)</td>
+                  <td>Copywriting</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1307,7 +1265,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Schema markup and Core Web Vitals fixes</td>
+                  <td>Branded email addresses</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1327,13 +1285,13 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Full SEO audit</td>
+                  <td>Accessibility (WCAG 2.2 AA)</td>
                   <td>At onboarding</td>
                   <td>Quarterly</td>
                   <td>Monthly</td>
                 </tr>
                 <tr>
-                  <td>Digital PR, press releases and news outreach</td>
+                  <td>Delivery time</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
@@ -1355,7 +1313,7 @@ Pages designed, built and shipped monthly against a plan. A site that loads fast
                     </svg></td>
                 </tr>
                 <tr>
-                  <td>Landing page conversion review</td>
+                  <td>Aftercare and maintenance included</td>
                   <td class="seo_dash"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                       viewBox="0 0 16 16" fill="none">
                       <g opacity="0.35">
