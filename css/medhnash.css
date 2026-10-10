@@ -1,5 +1,5 @@
 .order-hero {
-  background: #FAFAFA;
+  background: #F5EEFF;
   padding: 84px 0px 0px 0px;
 }
 
@@ -37,7 +37,7 @@
 
 .order-details {
   padding: 64px 0px 120px 0px;
-  background: #fff;
+  background: #FAFAFA;
 }
 
 .order-details-layout {
@@ -473,7 +473,7 @@
 }
 
 .checkout-hero {
-  background: #f5edff;
+  background: #F5EEFF;
   padding: 84px 0px 0px 0px;
 }
 
@@ -1028,4 +1028,106 @@ height: 54px;
     width: 100%;
 }
 
+}
+
+.empty-cart {
+  background: #FAFAFA;
+  padding: 120px 0;
+}
+
+.empty-cart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.empty-cart-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 24px;
+  max-width: 560px;
+}
+
+.empty-cart-icon {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 24px;
+  background: #f5edff;
+}
+
+.empty-cart-icon img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.empty-cart-content h2 {
+  margin: 0;
+  font-family: Onest;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 120%;
+  color: #0f0f0f;
+}
+
+.empty-cart-content p {
+  margin: 0;
+  font-family: Onest;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  color: rgba(15, 15, 15, 0.64);
+}
+
+.empty-cart-button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 28px;
+  border-radius: 999px;
+  background: #6a2bf0;
+  color: #fff;
+  font-family: Onest;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+@media (max-width: 735px) {
+  .empty-cart {
+    padding: 80px 24px;
+  }
+
+  .empty-cart-content {
+    gap: 20px;
+  }
+
+  .empty-cart-content h2 {
+    font-size: 30px;
+  }
+
+  .empty-cart-content p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 575px) {
+  .empty-cart {
+    padding: 64px 24px;
+  }
+
+  .empty-cart-content h2 {
+    font-size: 26px;
+  }
+
+  .empty-cart-button {
+    width: 100%;
+    box-sizing: border-box;
+  }
 }
