@@ -92,6 +92,29 @@
                 </div>
 
 
+                 <!-- empty order-->
+                <!-- <div class="tab-panel active w-100 order-det" id="panel-Orders">
+                    <div class="empty-box-inner">
+                        <h2 class="tab-h1">All orders</h2>
+                        <span>
+                            Every goal or service you buy shows here with its term and invoice.
+                        </span>
+                    </div>
+                    
+                    <div class="empty-sec">
+                        <h1>
+                            No orders yet
+                        </h1>
+                        <p>
+                            Pick a goal or choose services and it will show here.
+                        </p>
+                        <a href="">
+                            See the goals
+                        </a>
+                    </div>
+                </div> -->
+                <!-- emoty order end-->
+
                 <!-- Profile -->
                 <div
                     class="tab-panel prof-detail w-100"
