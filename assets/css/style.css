@@ -96,7 +96,7 @@ button svg {
 .story-screen {
   position : absolute;
   inset : 0;
-  padding : 0 3rem;
+  padding : 0px 100px;
   will-change : transform
 }
 .story-screen>.content {
@@ -179,7 +179,7 @@ button svg {
   display : flex;
   align-items : center;
   justify-content : center;
-  padding : .75rem 1.125rem;
+  padding : 16px 24px;
   background : #0F0F0F;
   transition : text-shadow .2s, background .2s
 }
@@ -606,14 +606,15 @@ button svg {
   display : flex;
   align-items : center;
   gap : 12px;
-  padding : 12px;
-  background : none;
-  border : 0;
+  padding: 10.67px 14.93px;
   font : 500 12px 'IBM Plex Mono', monospace;
   letter-spacing : .08em;
   color : var(--ink);
   cursor : pointer;
-  transition : opacity .3s
+  transition : opacity .3s;
+  border-radius: 9999px;
+  border: 1px solid rgba(245, 238, 255, 0.40);
+  background: rgba(106, 43, 240, 0.20);
 }
 #mute-toggle .sound-icon {
   display : flex;
@@ -1187,7 +1188,7 @@ body:not(.scene-ready) #business-nav, body:not(.scene-ready) #controls, body:not
 }
 .story-screen>.content {
   padding : 0;
-  gap : 1.125rem
+  gap : 24px;
 }
 .s1>.content {
   left : 3.75rem;
@@ -1214,14 +1215,14 @@ body:not(.scene-ready) #business-nav, body:not(.scene-ready) #controls, body:not
   width : 25.875rem
 }
 .s3>.content {
-  left : 3.75rem;
+  left : 80px;
   right : 3.75rem;
-  bottom : 3.75rem;
+  bottom : 80px;
   top : auto;
   display : flex;
   flex-direction : row;
   align-items : flex-end;
-  gap : 3.75rem
+  gap : 80px;
 }
 .s3 .title-column {
   flex : none;
@@ -1234,7 +1235,7 @@ body:not(.scene-ready) #business-nav, body:not(.scene-ready) #controls, body:not
   display : flex;
   flex-direction : row;
   align-items : flex-end;
-  gap : 3.75rem
+  gap : 80px;
 }
 .s3 .body {
   width : 19.3125rem;
@@ -1281,7 +1282,7 @@ body:not(.scene-ready) #business-nav, body:not(.scene-ready) #controls, body:not
   right : 3.75rem;
   align-items : center;
   text-align : center;
-  gap : 1.125rem
+  gap : 24px;
 }
 .s6 .body {
   width : 36rem;
@@ -2394,7 +2395,7 @@ html[data-theme=night] .site-page .about-tile, html[data-theme=night] .site-page
   background : rgba(18, 11, 43, .65)
 }
   @media(min-width : 1025px) {
-  .home-page .s4>.content, .home-page .s5>.content{right : max(3.75rem, 64px)
+  .home-page .s4>.content, .home-page .s5>.content{right : max(4.75rem, 64px)
 }
 }body.route-portal-active #hero-text {
   visibility : hidden
