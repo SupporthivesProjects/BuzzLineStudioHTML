@@ -10,7 +10,6 @@
     <title>BuzzLineStudio</title>
     <link rel="icon" type="image/png" sizes="16x16" href="./img/tg-icon.svg">
     <link rel="stylesheet" href="css/mainBase.css">
-    <link rel="stylesheet" href="assets/css/style.css">
   </head>
   <body>
   
